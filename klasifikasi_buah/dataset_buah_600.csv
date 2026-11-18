@@ -1,0 +1,601 @@
+diameter,berat,tebal_kulit,kadar_gula,asal_daerah,warna,musim_panen,jenis_buah
+5.86,141.41,0.67,14.01,Garut,oranye kekuningan,hujan,Jeruk
+6.95,242.28,0.64,13.47,Bandung,kuning kemerahan,kemarau,Apel
+6.52,275.64,0.52,13.45,Pasuruan,hijau kekuningan,hujan,Mangga
+7.17,227.65,0.76,14.86,Indramayu,hijau kekuningan,kemarau,Mangga
+6.04,188.74,0.4,13.96,Garut,oranye,kemarau,Jeruk
+7.83,275.8,0.56,15.58,Indramayu,hijau,kemarau,Mangga
+6.81,132.61,0.37,14.49,Banyuwangi,hijau,hujan,Jeruk
+6.64,233.49,0.69,14.02,Probolinggo,hijau kekuningan,kemarau,Mangga
+6.24,165.02,0.75,12.25,Bandung,kuning kemerahan,kemarau,Apel
+5.83,111.86,0.58,10.99,Magelang,oranye,kemarau,Jeruk
+6.89,80.0,0.62,10.25,Malang,merah,hujan,Apel
+7.72,343.19,0.65,15.44,Indramayu,hijau,kemarau,Mangga
+6.64,360.0,0.59,16.79,Pasuruan,hijau kekuningan,kemarau,Mangga
+6.63,141.54,0.31,10.69,Banyuwangi,kuning,kemarau,Jeruk
+5.98,149.67,0.39,11.46,Banyuwangi,hijau,hujan,Jeruk
+6.61,121.93,0.45,14.94,Magelang,oranye,hujan,Jeruk
+8.24,203.35,0.65,15.39,Probolinggo,hijau,hujan,Mangga
+6.14,87.06,0.55,9.11,Banyuwangi,hijau,kemarau,Jeruk
+5.61,158.03,0.52,11.42,Garut,oranye,kemarau,Jeruk
+5.84,215.72,0.4,12.7,Garut,oranye,hujan,Jeruk
+6.15,92.6,0.52,9.58,Banyuwangi,oranye kekuningan,hujan,Jeruk
+7.9,315.84,0.6,13.22,Banyuwangi,hijau kekuningan,hujan,Mangga
+5.76,152.89,0.51,11.42,Banyuwangi,oranye,kemarau,Jeruk
+9.08,311.9,0.56,15.31,Pasuruan,hijau kekuningan,hujan,Mangga
+6.37,119.81,0.9,11.77,Bandung,merah,hujan,Apel
+8.09,241.31,0.63,10.64,Probolinggo,hijau,hujan,Mangga
+7.26,257.16,0.67,14.22,Indramayu,hijau kekuningan,hujan,Mangga
+6.88,242.16,0.68,14.02,Pasuruan,hijau,kemarau,Mangga
+6.13,178.33,0.48,13.19,Probolinggo,hijau,hujan,Jeruk
+7.21,96.75,0.62,15.34,Bandung,kuning,kemarau,Mangga
+7.84,235.43,0.43,16.65,Probolinggo,hijau,kemarau,Mangga
+6.44,140.36,0.74,11.58,Batu,hijau,kemarau,Apel
+8.98,105.26,0.46,13.01,Probolinggo,hijau kekuningan,kemarau,Mangga
+5.69,182.62,0.5,11.53,Banyuwangi,hijau,hujan,Jeruk
+6.73,127.3,0.77,9.46,Bandung,merah,kemarau,Apel
+6.84,247.97,0.37,13.11,Pasuruan,hijau,kemarau,Mangga
+8.8,218.4,0.56,13.74,Indramayu,hijau kekuningan,hujan,Mangga
+6.11,204.49,0.42,7.5,Pasuruan,hijau,kemarau,Jeruk
+8.27,310.72,0.71,14.89,Pasuruan,hijau,hujan,Mangga
+6.95,142.98,0.78,13.53,Malang,hijau,hujan,Apel
+6.69,121.89,0.5,7.9,Magelang,hijau,hujan,Jeruk
+6.37,231.86,0.54,16.29,Probolinggo,hijau kekuningan,hujan,Mangga
+5.82,190.7,0.4,10.69,Garut,hijau kekuningan,hujan,Jeruk
+6.64,154.14,0.36,11.77,Banyuwangi,hijau,kemarau,Jeruk
+8.13,224.52,0.49,13.11,Probolinggo,hijau kekuningan,kemarau,Mangga
+6.69,121.21,0.38,10.25,Banyuwangi,oranye kekuningan,hujan,Jeruk
+5.84,110.25,0.32,10.58,Magelang,oranye,hujan,Jeruk
+7.35,166.31,0.47,14.7,Malang,merah,kemarau,Apel
+7.7,159.09,0.58,13.89,Indramayu,hijau kekuningan,hujan,Mangga
+7.05,216.18,0.55,12.33,Indramayu,merah,kemarau,Apel
+6.71,106.56,0.58,11.03,Batu,kuning kemerahan,kemarau,Apel
+7.75,216.67,0.49,14.48,Pasuruan,hijau kekuningan,kemarau,Mangga
+6.43,174.51,0.52,11.02,Magelang,hijau,kemarau,Jeruk
+8.51,216.92,0.44,13.82,Indramayu,hijau kekuningan,hujan,Mangga
+8.17,226.98,0.61,14.85,Pasuruan,hijau kekuningan,hujan,Mangga
+6.13,187.23,0.48,11.84,Garut,oranye,kemarau,Jeruk
+5.82,110.68,0.5,11.51,Garut,kuning,hujan,Jeruk
+6.84,210.15,0.73,11.6,Batu,oranye,hujan,Apel
+6.06,179.28,0.4,9.12,Banyuwangi,oranye kekuningan,kemarau,Jeruk
+7.31,256.7,0.73,14.52,Probolinggo,kuning,hujan,Mangga
+6.57,173.68,0.78,13.3,Malang,hijau,hujan,Apel
+5.72,143.91,0.37,8.2,Banyuwangi,oranye kekuningan,hujan,Jeruk
+6.48,138.7,0.75,9.58,Malang,merah,hujan,Apel
+7.88,345.0,0.45,14.49,Indramayu,hijau kekuningan,hujan,Mangga
+5.57,143.19,0.45,8.32,Magelang,hijau,kemarau,Jeruk
+7.11,169.85,0.39,12.03,Banyuwangi,oranye,kemarau,Jeruk
+7.22,253.96,0.51,16.38,Probolinggo,hijau kekuningan,hujan,Mangga
+8.44,134.59,0.58,14.28,Indramayu,kuning,hujan,Mangga
+6.08,163.91,0.73,12.09,Bandung,hijau,hujan,Apel
+6.51,137.24,0.49,12.24,Magelang,hijau kekuningan,hujan,Jeruk
+7.16,218.5,0.63,15.07,Indramayu,kuning,kemarau,Mangga
+5.78,167.38,0.28,14.24,Garut,hijau kekuningan,hujan,Jeruk
+6.75,144.25,0.46,15.79,Magelang,oranye kekuningan,hujan,Jeruk
+7.08,197.9,0.63,14.95,Malang,hijau,hujan,Apel
+6.45,320.37,0.56,15.23,Pasuruan,hijau,hujan,Mangga
+7.06,137.46,0.68,11.39,Probolinggo,kuning kemerahan,kemarau,Apel
+6.32,156.52,0.75,12.85,Bandung,hijau,hujan,Apel
+8.53,215.54,0.79,18.44,Indramayu,hijau kekuningan,hujan,Mangga
+6.84,158.54,0.77,9.94,Batu,oranye,hujan,Apel
+7.02,186.92,0.75,11.8,Malang,hijau,kemarau,Apel
+6.36,141.77,0.31,9.4,Garut,hijau,kemarau,Jeruk
+6.8,213.43,0.62,14.9,Pasuruan,kuning,kemarau,Mangga
+6.79,151.02,0.55,12.45,Malang,kuning kemerahan,kemarau,Apel
+6.72,139.85,0.41,11.77,Magelang,hijau,kemarau,Jeruk
+6.06,198.73,0.48,11.69,Garut,oranye,hujan,Jeruk
+6.4,337.29,0.64,16.88,Probolinggo,kuning,kemarau,Mangga
+6.46,180.66,0.72,14.11,Malang,merah,hujan,Apel
+9.0,300.08,0.54,12.7,Pasuruan,hijau,kemarau,Mangga
+7.13,222.47,0.59,18.5,Probolinggo,hijau kekuningan,hujan,Mangga
+6.84,164.71,0.58,10.39,Batu,hijau,kemarau,Apel
+7.1,195.72,0.64,12.81,Malang,kuning kemerahan,hujan,Apel
+6.94,238.68,0.74,11.41,Bandung,hijau,kemarau,Apel
+6.34,139.47,0.53,8.6,Magelang,oranye,kemarau,Jeruk
+6.34,124.97,0.6,11.81,Banyuwangi,oranye kekuningan,hujan,Jeruk
+6.41,188.14,0.41,10.95,Magelang,oranye,kemarau,Jeruk
+5.34,188.2,0.47,11.79,Banyuwangi,oranye,hujan,Jeruk
+6.58,134.76,0.66,13.56,Indramayu,oranye,kemarau,Mangga
+7.22,223.27,0.7,10.7,Probolinggo,kuning,kemarau,Mangga
+6.06,166.16,0.61,12.74,Garut,oranye kekuningan,kemarau,Jeruk
+6.46,148.08,0.74,14.72,Batu,kuning kemerahan,kemarau,Apel
+6.27,203.32,0.59,13.79,Probolinggo,merah,kemarau,Mangga
+6.52,183.1,0.62,10.31,Bandung,kuning kemerahan,kemarau,Apel
+6.65,109.73,0.62,10.02,Probolinggo,oranye kekuningan,hujan,Jeruk
+7.05,200.39,0.59,14.72,Bandung,hijau,kemarau,Mangga
+8.31,286.72,0.48,15.23,Bandung,kuning,kemarau,Mangga
+7.37,195.43,0.54,15.04,Indramayu,hijau kekuningan,kemarau,Mangga
+5.47,138.16,0.47,10.95,Garut,oranye,hujan,Jeruk
+6.3,125.7,0.73,9.97,Garut,hijau,hujan,Apel
+6.57,146.52,0.45,9.81,Magelang,oranye,hujan,Jeruk
+6.99,123.78,0.65,11.82,Malang,hijau,kemarau,Apel
+5.91,182.06,0.46,12.32,Magelang,hijau,kemarau,Jeruk
+6.48,142.8,0.33,12.09,Banyuwangi,oranye kekuningan,hujan,Jeruk
+6.25,167.01,0.84,9.68,Batu,oranye kekuningan,hujan,Apel
+6.99,204.25,0.74,11.58,Malang,kuning kemerahan,hujan,Apel
+6.55,201.45,0.5,13.37,Garut,hijau,kemarau,Jeruk
+5.83,126.11,0.54,10.44,Magelang,hijau,kemarau,Jeruk
+6.67,170.69,0.4,13.44,Banyuwangi,oranye,hujan,Jeruk
+6.33,128.84,0.56,11.61,Batu,hijau,hujan,Apel
+5.94,151.65,0.6,14.14,Pasuruan,oranye,kemarau,Jeruk
+7.62,208.85,0.58,17.93,Probolinggo,hijau,kemarau,Mangga
+7.03,360.0,0.47,10.73,Pasuruan,kuning,kemarau,Mangga
+6.16,196.57,0.7,11.59,Bandung,merah,hujan,Apel
+7.39,194.53,0.69,13.58,Indramayu,merah,kemarau,Apel
+6.91,291.22,0.65,13.08,Indramayu,kuning,kemarau,Mangga
+7.17,203.84,0.61,11.05,Pasuruan,hijau kekuningan,hujan,Mangga
+6.64,246.59,0.71,15.1,Malang,hijau,kemarau,Apel
+7.96,276.22,0.75,13.77,Pasuruan,hijau,kemarau,Mangga
+6.84,163.5,0.59,12.55,Batu,hijau,hujan,Apel
+7.13,319.52,0.65,15.22,Batu,kuning,kemarau,Mangga
+6.98,193.55,0.44,10.35,Garut,oranye,hujan,Jeruk
+8.58,244.37,0.59,18.5,Indramayu,kuning,kemarau,Mangga
+7.83,197.32,0.72,10.74,Malang,hijau,kemarau,Apel
+6.05,182.57,0.61,11.55,Garut,oranye,kemarau,Jeruk
+6.59,121.2,0.68,12.92,Batu,kuning,hujan,Apel
+7.11,157.22,0.69,13.05,Malang,merah,kemarau,Apel
+6.71,268.02,0.71,14.5,Indramayu,hijau kekuningan,kemarau,Mangga
+7.61,191.13,0.58,16.89,Banyuwangi,hijau kekuningan,kemarau,Mangga
+6.05,191.85,0.78,14.66,Batu,merah,kemarau,Apel
+5.3,123.65,0.52,9.12,Probolinggo,oranye,kemarau,Jeruk
+7.66,135.33,0.53,14.92,Pasuruan,kuning,hujan,Mangga
+6.5,196.18,0.5,14.64,Magelang,hijau,hujan,Jeruk
+6.96,275.39,0.63,16.07,Probolinggo,hijau,hujan,Mangga
+6.84,136.07,0.58,11.43,Magelang,hijau,kemarau,Jeruk
+6.94,133.13,0.52,12.32,Probolinggo,hijau kekuningan,hujan,Apel
+7.71,161.47,0.68,11.43,Indramayu,hijau,kemarau,Mangga
+7.66,185.08,0.57,11.94,Batu,hijau,kemarau,Apel
+5.67,185.38,0.51,12.13,Magelang,oranye kekuningan,hujan,Jeruk
+5.96,156.47,0.48,9.69,Magelang,hijau,kemarau,Jeruk
+7.76,133.87,0.64,15.51,Batu,kuning,kemarau,Mangga
+8.03,351.2,0.52,16.54,Bandung,kuning,hujan,Mangga
+7.78,199.59,0.73,12.97,Malang,hijau,kemarau,Apel
+6.45,140.32,0.45,9.7,Magelang,oranye kekuningan,kemarau,Jeruk
+6.19,186.3,0.68,14.78,Batu,kuning kemerahan,hujan,Apel
+5.64,224.08,0.37,11.51,Garut,kuning,kemarau,Jeruk
+5.57,125.25,0.53,11.3,Magelang,kuning,hujan,Jeruk
+6.66,148.84,0.61,13.87,Malang,merah,kemarau,Apel
+6.34,145.3,0.52,12.04,Garut,oranye,hujan,Jeruk
+6.69,173.18,0.83,14.88,Batu,kuning kemerahan,kemarau,Apel
+6.66,172.66,0.44,12.72,Banyuwangi,oranye,kemarau,Jeruk
+6.7,80.0,0.49,7.59,Magelang,kuning,kemarau,Jeruk
+6.88,147.9,0.46,12.05,Garut,oranye,hujan,Jeruk
+6.61,188.47,0.9,12.2,Probolinggo,merah,kemarau,Apel
+7.02,278.7,0.51,15.26,Indramayu,hijau kekuningan,kemarau,Mangga
+6.08,178.14,0.68,14.64,Malang,kuning kemerahan,kemarau,Apel
+7.25,344.8,0.63,15.18,Indramayu,hijau kekuningan,hujan,Mangga
+5.98,180.9,0.66,12.84,Magelang,hijau,kemarau,Jeruk
+6.4,223.65,0.71,11.21,Malang,kuning kemerahan,hujan,Apel
+6.09,138.19,0.56,7.95,Banyuwangi,hijau,kemarau,Jeruk
+8.58,223.84,0.54,14.91,Probolinggo,hijau,kemarau,Mangga
+7.35,104.63,0.4,11.38,Magelang,hijau kekuningan,hujan,Jeruk
+7.98,149.26,0.72,15.35,Indramayu,hijau,hujan,Mangga
+8.75,262.87,0.49,16.38,Banyuwangi,kuning,kemarau,Mangga
+7.92,234.49,0.59,17.43,Probolinggo,hijau kekuningan,hujan,Mangga
+7.61,271.83,0.64,11.59,Indramayu,hijau kekuningan,hujan,Mangga
+6.79,139.05,0.76,15.16,Batu,oranye kekuningan,kemarau,Apel
+6.06,126.13,0.53,15.02,Bandung,oranye kekuningan,kemarau,Apel
+6.39,146.49,0.51,11.84,Magelang,oranye kekuningan,kemarau,Jeruk
+7.72,310.06,0.62,13.03,Batu,hijau kekuningan,kemarau,Mangga
+5.95,165.51,0.57,11.27,Banyuwangi,oranye,kemarau,Jeruk
+7.34,196.86,0.75,12.28,Batu,merah,hujan,Apel
+6.79,155.38,0.61,11.04,Malang,hijau,hujan,Apel
+6.32,214.34,0.7,17.03,Garut,hijau,hujan,Apel
+8.05,258.92,0.49,13.81,Pasuruan,hijau,kemarau,Mangga
+8.23,175.89,0.58,16.73,Pasuruan,hijau kekuningan,hujan,Mangga
+6.68,151.53,0.69,11.2,Bandung,kuning kemerahan,hujan,Apel
+8.19,360.0,0.72,14.05,Pasuruan,hijau kekuningan,kemarau,Mangga
+6.87,247.05,0.68,13.84,Probolinggo,hijau,kemarau,Mangga
+7.9,182.46,0.49,14.93,Probolinggo,kuning,kemarau,Mangga
+6.76,147.29,0.64,12.77,Malang,merah,kemarau,Apel
+8.85,183.75,0.5,15.08,Pasuruan,hijau kekuningan,kemarau,Mangga
+6.13,131.63,0.48,12.0,Banyuwangi,hijau,hujan,Jeruk
+7.66,166.05,0.65,12.33,Garut,kuning,hujan,Mangga
+6.35,176.37,0.66,13.61,Malang,merah,kemarau,Apel
+6.44,204.3,0.65,11.62,Banyuwangi,oranye,hujan,Jeruk
+7.08,212.79,0.43,13.91,Banyuwangi,oranye kekuningan,kemarau,Jeruk
+8.01,232.05,0.78,11.11,Batu,merah,kemarau,Apel
+7.06,170.43,0.66,10.63,Batu,kuning kemerahan,kemarau,Apel
+7.68,360.0,0.73,15.02,Banyuwangi,hijau,hujan,Mangga
+7.5,158.69,0.68,13.29,Malang,kuning kemerahan,kemarau,Apel
+6.04,80.89,0.6,13.0,Garut,hijau,kemarau,Jeruk
+7.26,180.2,0.47,11.2,Banyuwangi,oranye kekuningan,hujan,Jeruk
+7.95,273.21,0.62,16.79,Indramayu,hijau,kemarau,Mangga
+5.5,131.08,0.47,12.06,Banyuwangi,oranye,kemarau,Jeruk
+6.56,310.44,0.68,12.18,Probolinggo,hijau kekuningan,kemarau,Mangga
+8.41,189.07,0.61,12.71,Pasuruan,kuning,kemarau,Mangga
+7.09,145.72,0.74,11.83,Indramayu,kuning kemerahan,kemarau,Apel
+6.38,259.46,0.54,13.77,Pasuruan,hijau kekuningan,hujan,Mangga
+5.18,151.8,0.72,13.58,Bandung,hijau,hujan,Apel
+7.67,255.81,0.59,13.95,Indramayu,hijau,hujan,Mangga
+6.03,137.01,0.33,10.88,Banyuwangi,oranye,kemarau,Jeruk
+6.89,196.0,0.74,9.57,Batu,hijau,kemarau,Apel
+6.12,98.88,0.5,12.44,Garut,hijau,hujan,Jeruk
+6.13,181.12,0.54,9.81,Magelang,hijau,hujan,Jeruk
+6.78,180.23,0.73,13.03,Bandung,kuning kemerahan,hujan,Apel
+6.58,196.2,0.9,13.54,Batu,oranye kekuningan,kemarau,Apel
+8.19,289.46,0.5,14.22,Probolinggo,hijau kekuningan,hujan,Mangga
+7.75,281.99,0.65,15.38,Probolinggo,hijau,kemarau,Mangga
+5.9,219.74,0.43,11.66,Banyuwangi,hijau,hujan,Jeruk
+6.72,150.06,0.67,11.75,Bandung,kuning kemerahan,hujan,Apel
+6.4,166.11,0.61,10.15,Magelang,hijau,kemarau,Jeruk
+6.79,176.35,0.81,10.82,Malang,merah,kemarau,Apel
+5.0,152.16,0.54,8.36,Garut,oranye,kemarau,Jeruk
+6.81,199.44,0.46,10.08,Garut,oranye kekuningan,hujan,Jeruk
+6.73,175.19,0.25,9.75,Banyuwangi,oranye kekuningan,kemarau,Jeruk
+8.42,165.93,0.63,13.41,Indramayu,hijau,hujan,Mangga
+7.3,180.14,0.65,11.39,Indramayu,merah,hujan,Apel
+7.61,158.6,0.59,15.34,Probolinggo,hijau,kemarau,Mangga
+7.5,219.09,0.47,13.47,Bandung,merah,kemarau,Apel
+6.18,218.94,0.61,14.34,Indramayu,kuning,hujan,Mangga
+6.99,185.3,0.84,11.62,Batu,kuning kemerahan,kemarau,Apel
+6.73,148.99,0.4,13.01,Garut,oranye kekuningan,kemarau,Jeruk
+7.26,269.8,0.52,12.45,Batu,merah,kemarau,Apel
+6.63,138.7,0.68,13.78,Bandung,merah,hujan,Apel
+6.03,147.31,0.55,10.13,Magelang,oranye,kemarau,Jeruk
+7.08,174.98,0.59,10.17,Batu,hijau,hujan,Apel
+6.96,186.08,0.71,12.96,Bandung,kuning kemerahan,hujan,Apel
+8.42,220.73,0.45,11.93,Probolinggo,hijau kekuningan,hujan,Mangga
+7.76,266.52,0.39,18.5,Pasuruan,hijau,hujan,Mangga
+7.1,209.17,0.68,14.83,Batu,merah,kemarau,Apel
+6.46,294.01,0.6,14.36,Indramayu,hijau kekuningan,kemarau,Mangga
+7.03,212.09,0.75,14.85,Malang,hijau,hujan,Apel
+6.72,165.65,0.79,13.04,Batu,kuning kemerahan,kemarau,Apel
+6.19,199.2,0.8,11.75,Bandung,kuning kemerahan,kemarau,Apel
+7.25,345.97,0.59,14.27,Pasuruan,hijau,hujan,Mangga
+6.43,181.65,0.71,9.91,Probolinggo,hijau,hujan,Apel
+6.42,113.77,0.55,11.09,Banyuwangi,oranye,hujan,Jeruk
+7.41,171.6,0.76,13.81,Batu,kuning kemerahan,kemarau,Apel
+6.11,147.47,0.41,12.24,Magelang,oranye kekuningan,hujan,Jeruk
+8.73,269.52,0.47,13.17,Pasuruan,kuning,hujan,Mangga
+5.36,137.56,0.52,11.56,Banyuwangi,hijau,kemarau,Jeruk
+6.35,205.16,0.85,13.9,Malang,merah,kemarau,Apel
+6.21,171.9,0.4,11.34,Garut,oranye,hujan,Jeruk
+6.74,180.07,0.77,11.73,Bandung,merah,hujan,Apel
+6.29,173.88,0.63,12.52,Probolinggo,kuning,hujan,Mangga
+7.12,180.15,0.53,14.33,Garut,hijau kekuningan,kemarau,Apel
+7.29,250.9,0.72,13.61,Indramayu,hijau,kemarau,Mangga
+6.92,235.51,0.64,16.49,Pasuruan,kuning,kemarau,Mangga
+6.12,175.38,0.42,11.85,Banyuwangi,oranye,kemarau,Jeruk
+8.03,280.25,0.55,14.11,Indramayu,kuning,kemarau,Mangga
+6.73,145.62,0.28,12.76,Garut,hijau,hujan,Jeruk
+7.8,180.35,0.63,12.1,Batu,hijau,kemarau,Apel
+7.17,206.85,0.72,13.2,Malang,kuning kemerahan,kemarau,Apel
+6.83,272.13,0.5,12.55,Pasuruan,kuning,kemarau,Mangga
+6.55,159.86,0.79,15.47,Bandung,merah,hujan,Apel
+5.89,190.31,0.7,12.69,Bandung,merah,kemarau,Apel
+8.15,265.28,0.54,10.78,Batu,kuning kemerahan,kemarau,Apel
+6.93,125.24,0.47,9.21,Garut,hijau,kemarau,Jeruk
+6.32,133.12,0.8,13.13,Bandung,oranye,kemarau,Apel
+6.45,248.77,0.55,15.29,Pasuruan,kuning,kemarau,Mangga
+6.71,163.96,0.77,14.42,Malang,kuning kemerahan,kemarau,Apel
+7.19,219.49,0.52,14.38,Probolinggo,kuning,kemarau,Mangga
+6.46,153.52,0.25,10.3,Banyuwangi,hijau,kemarau,Jeruk
+6.92,185.54,0.87,11.19,Bandung,hijau,kemarau,Apel
+6.31,129.5,0.74,13.84,Bandung,kuning kemerahan,kemarau,Apel
+7.69,292.4,0.48,16.23,Indramayu,hijau,kemarau,Mangga
+7.2,340.52,0.56,16.64,Probolinggo,kuning,kemarau,Mangga
+6.86,234.78,0.57,12.3,Batu,kuning,hujan,Apel
+7.08,153.57,0.58,9.74,Garut,oranye kekuningan,kemarau,Jeruk
+7.64,250.97,0.54,16.63,Probolinggo,hijau,kemarau,Mangga
+9.2,151.16,0.48,15.12,Malang,kuning,hujan,Mangga
+7.71,180.61,0.66,10.77,Malang,oranye,hujan,Apel
+6.72,204.31,0.68,10.04,Batu,hijau,kemarau,Apel
+5.81,180.48,0.48,11.29,Magelang,oranye,hujan,Jeruk
+6.43,146.06,0.47,12.05,Magelang,oranye kekuningan,kemarau,Jeruk
+6.68,168.83,0.36,12.27,Garut,oranye kekuningan,kemarau,Jeruk
+7.01,188.5,0.65,13.81,Garut,hijau kekuningan,hujan,Mangga
+6.74,173.18,0.44,11.72,Pasuruan,oranye kekuningan,hujan,Jeruk
+7.4,132.85,0.51,12.51,Banyuwangi,hijau,kemarau,Jeruk
+5.14,100.12,0.39,9.38,Garut,kuning kemerahan,kemarau,Jeruk
+6.75,171.47,0.44,11.08,Magelang,oranye kekuningan,kemarau,Jeruk
+7.45,175.55,0.74,13.12,Indramayu,hijau,kemarau,Mangga
+6.26,140.56,0.53,10.71,Banyuwangi,oranye kekuningan,kemarau,Jeruk
+6.29,167.0,0.69,10.43,Bandung,hijau,kemarau,Apel
+6.4,106.76,0.44,12.01,Garut,hijau,hujan,Jeruk
+6.5,180.33,0.57,10.19,Magelang,oranye,hujan,Jeruk
+7.64,188.02,0.53,12.52,Batu,hijau,kemarau,Apel
+7.48,136.31,0.4,14.21,Magelang,hijau,hujan,Jeruk
+7.3,238.79,0.6,13.47,Pasuruan,merah,hujan,Mangga
+6.03,168.05,0.45,8.09,Magelang,oranye,kemarau,Jeruk
+5.83,160.95,0.49,7.5,Banyuwangi,oranye,hujan,Jeruk
+6.8,150.47,0.67,9.56,Malang,hijau,hujan,Apel
+5.61,127.06,0.44,10.98,Banyuwangi,oranye,kemarau,Jeruk
+7.03,191.81,0.72,10.93,Batu,merah,kemarau,Apel
+6.81,127.03,0.68,11.35,Malang,merah,kemarau,Apel
+7.41,214.66,0.58,9.55,Bandung,hijau,kemarau,Mangga
+7.45,146.75,0.49,14.11,Bandung,oranye kekuningan,kemarau,Jeruk
+7.99,264.02,0.46,14.52,Indramayu,kuning,kemarau,Mangga
+6.4,185.84,0.69,10.57,Malang,kuning kemerahan,kemarau,Apel
+8.0,228.02,0.54,15.26,Pasuruan,hijau kekuningan,hujan,Mangga
+5.12,162.34,0.5,7.87,Indramayu,oranye,hujan,Jeruk
+5.54,185.23,0.35,13.88,Magelang,oranye kekuningan,kemarau,Jeruk
+9.02,181.38,0.5,17.12,Pasuruan,kuning,kemarau,Mangga
+6.28,147.61,0.71,15.07,Bandung,hijau,hujan,Apel
+6.35,125.71,0.48,10.02,Garut,hijau,kemarau,Jeruk
+6.15,226.75,0.66,11.69,Bandung,kuning kemerahan,kemarau,Apel
+6.78,183.65,0.38,12.26,Banyuwangi,oranye,kemarau,Jeruk
+7.08,153.53,0.63,12.29,Bandung,merah,hujan,Apel
+6.11,248.36,0.81,14.75,Bandung,kuning kemerahan,hujan,Apel
+7.11,168.84,0.54,13.91,Bandung,merah,hujan,Apel
+6.65,275.74,0.64,17.05,Indramayu,hijau,kemarau,Mangga
+6.5,104.04,0.31,12.08,Banyuwangi,oranye,kemarau,Jeruk
+5.52,153.41,0.72,16.17,Bandung,merah,hujan,Apel
+6.37,169.52,0.45,10.69,Banyuwangi,hijau,kemarau,Jeruk
+8.59,230.05,0.46,17.26,Indramayu,hijau,kemarau,Mangga
+5.65,156.06,0.45,11.2,Banyuwangi,oranye,kemarau,Jeruk
+6.23,191.04,0.75,13.44,Bandung,hijau,hujan,Apel
+6.87,168.25,0.63,13.35,Bandung,hijau,kemarau,Apel
+5.99,174.03,0.47,10.64,Garut,oranye,kemarau,Jeruk
+8.17,229.57,0.54,15.83,Bandung,hijau,kemarau,Mangga
+6.44,165.35,0.62,14.67,Bandung,kuning kemerahan,kemarau,Apel
+7.73,192.31,0.64,18.5,Pasuruan,hijau,hujan,Mangga
+7.38,281.02,0.56,15.79,Malang,hijau,kemarau,Mangga
+6.45,166.78,0.67,9.86,Magelang,oranye,hujan,Jeruk
+5.47,157.25,0.67,8.43,Banyuwangi,hijau,kemarau,Jeruk
+7.79,234.21,0.5,13.41,Probolinggo,oranye,hujan,Mangga
+7.57,305.77,0.62,14.95,Pasuruan,oranye kekuningan,hujan,Mangga
+6.79,147.35,0.53,14.98,Batu,oranye kekuningan,hujan,Jeruk
+6.2,217.54,0.49,8.75,Garut,oranye kekuningan,kemarau,Jeruk
+5.83,213.05,0.65,12.64,Indramayu,hijau,kemarau,Mangga
+6.6,166.8,0.49,12.27,Banyuwangi,oranye kekuningan,hujan,Jeruk
+6.81,152.06,0.49,11.97,Bandung,kuning kemerahan,kemarau,Apel
+7.45,177.35,0.5,11.8,Bandung,hijau,hujan,Apel
+6.13,217.96,0.68,12.37,Magelang,merah,hujan,Apel
+5.91,130.06,0.28,13.06,Banyuwangi,hijau,hujan,Jeruk
+6.19,221.34,0.79,13.94,Bandung,kuning kemerahan,kemarau,Apel
+8.27,190.16,0.68,15.14,Pasuruan,hijau kekuningan,kemarau,Mangga
+7.92,332.83,0.65,16.25,Pasuruan,kuning kemerahan,kemarau,Mangga
+5.78,192.32,0.65,11.46,Bandung,hijau,kemarau,Apel
+7.03,251.19,0.51,13.0,Pasuruan,hijau,hujan,Mangga
+6.15,174.53,0.7,12.75,Malang,hijau,hujan,Apel
+5.91,150.76,0.55,12.27,Garut,oranye kekuningan,hujan,Jeruk
+6.73,140.99,0.67,13.17,Batu,hijau,kemarau,Apel
+7.06,192.13,0.63,10.58,Garut,hijau,hujan,Jeruk
+6.84,179.41,0.73,12.34,Bandung,kuning kemerahan,kemarau,Apel
+8.2,91.94,0.53,13.09,Indramayu,kuning,kemarau,Mangga
+9.09,277.68,0.59,14.3,Probolinggo,kuning,kemarau,Mangga
+7.0,169.26,0.55,15.58,Probolinggo,hijau,kemarau,Mangga
+5.67,133.07,0.28,11.37,Magelang,oranye kekuningan,kemarau,Jeruk
+8.49,244.22,0.59,14.75,Indramayu,hijau,hujan,Mangga
+7.87,304.49,0.63,11.71,Banyuwangi,kuning,kemarau,Mangga
+6.33,80.0,0.48,10.75,Banyuwangi,oranye kekuningan,kemarau,Jeruk
+6.59,171.17,0.57,13.66,Bandung,kuning kemerahan,hujan,Apel
+6.84,147.22,0.49,10.92,Batu,merah,hujan,Apel
+6.94,192.39,0.55,11.14,Malang,hijau,kemarau,Mangga
+7.81,225.41,0.52,13.42,Probolinggo,hijau,kemarau,Mangga
+7.5,318.46,0.57,14.04,Pasuruan,kuning,hujan,Mangga
+6.84,145.75,0.51,15.59,Batu,kuning kemerahan,kemarau,Apel
+6.83,181.22,0.65,13.95,Probolinggo,hijau,kemarau,Mangga
+7.07,141.56,0.36,8.36,Magelang,oranye kekuningan,kemarau,Jeruk
+6.48,249.52,0.57,16.53,Pasuruan,hijau,kemarau,Mangga
+6.56,188.93,0.71,11.5,Bandung,hijau kekuningan,kemarau,Apel
+7.05,306.0,0.6,15.09,Probolinggo,hijau,kemarau,Mangga
+6.65,266.59,0.53,11.21,Indramayu,hijau,kemarau,Mangga
+7.74,130.24,0.76,11.23,Malang,kuning kemerahan,hujan,Apel
+7.23,163.51,0.43,12.59,Magelang,oranye kekuningan,kemarau,Jeruk
+7.39,295.55,0.65,12.09,Pasuruan,kuning,hujan,Mangga
+8.52,179.34,0.59,16.79,Probolinggo,hijau,kemarau,Mangga
+8.28,276.83,0.78,16.88,Pasuruan,kuning,hujan,Mangga
+7.0,188.32,0.7,13.83,Malang,merah,hujan,Apel
+6.15,199.83,0.62,15.84,Pasuruan,kuning kemerahan,kemarau,Mangga
+7.04,226.33,0.7,10.52,Malang,merah,kemarau,Apel
+6.37,176.04,0.6,13.43,Bandung,kuning kemerahan,hujan,Apel
+6.0,135.26,0.47,9.13,Garut,oranye kekuningan,hujan,Jeruk
+6.34,184.25,0.62,16.63,Malang,hijau,hujan,Apel
+6.39,147.85,0.57,10.1,Banyuwangi,oranye kekuningan,kemarau,Jeruk
+6.62,253.76,0.48,8.64,Batu,oranye kekuningan,kemarau,Apel
+6.03,146.04,0.55,13.64,Banyuwangi,merah,hujan,Apel
+6.42,251.47,0.54,16.8,Probolinggo,kuning,kemarau,Mangga
+6.81,151.74,0.76,12.32,Batu,hijau,kemarau,Apel
+7.74,310.44,0.65,12.13,Banyuwangi,kuning,hujan,Mangga
+6.35,188.56,0.41,13.26,Banyuwangi,hijau,hujan,Jeruk
+6.59,213.12,0.69,12.25,Bandung,merah,kemarau,Apel
+7.19,300.37,0.6,17.24,Indramayu,hijau kekuningan,hujan,Mangga
+6.62,130.01,0.59,11.78,Pasuruan,hijau,kemarau,Apel
+6.4,222.73,0.48,10.88,Probolinggo,hijau,kemarau,Jeruk
+6.56,180.41,0.54,10.68,Garut,oranye,kemarau,Jeruk
+6.54,170.98,0.65,13.54,Batu,hijau,kemarau,Apel
+6.42,128.5,0.63,12.71,Indramayu,hijau,kemarau,Apel
+5.92,185.89,0.45,11.7,Banyuwangi,oranye,kemarau,Jeruk
+7.05,116.71,0.79,12.43,Bandung,hijau,hujan,Apel
+7.43,177.16,0.73,14.26,Probolinggo,kuning,hujan,Mangga
+6.53,93.89,0.45,12.36,Banyuwangi,oranye,hujan,Jeruk
+6.01,147.28,0.45,11.22,Garut,oranye kekuningan,hujan,Jeruk
+6.29,175.23,0.34,12.0,Magelang,hijau,hujan,Jeruk
+7.96,226.98,0.49,13.66,Pasuruan,hijau,kemarau,Mangga
+8.58,265.75,0.69,12.44,Probolinggo,hijau,kemarau,Mangga
+7.48,143.98,0.45,12.68,Bandung,hijau,kemarau,Apel
+6.94,169.0,0.65,12.89,Bandung,merah,hujan,Apel
+6.78,231.22,0.77,12.43,Malang,kuning kemerahan,hujan,Apel
+5.86,183.22,0.51,10.28,Banyuwangi,hijau,kemarau,Jeruk
+5.62,114.59,0.59,9.65,Garut,hijau,hujan,Jeruk
+7.35,164.22,0.67,9.99,Batu,kuning kemerahan,hujan,Apel
+7.62,338.59,0.54,15.7,Probolinggo,hijau,kemarau,Mangga
+6.51,137.94,0.5,11.68,Pasuruan,oranye,hujan,Jeruk
+7.12,161.1,0.63,14.28,Probolinggo,kuning,kemarau,Mangga
+6.59,174.29,0.6,14.24,Bandung,hijau,hujan,Apel
+6.86,202.02,0.83,11.35,Bandung,hijau,hujan,Apel
+6.18,146.77,0.46,10.73,Magelang,oranye,kemarau,Jeruk
+7.86,279.68,0.69,14.98,Probolinggo,kuning,kemarau,Mangga
+6.22,132.04,0.37,10.75,Banyuwangi,oranye kekuningan,kemarau,Jeruk
+7.16,196.02,0.62,12.31,Batu,merah,hujan,Apel
+7.09,139.39,0.45,13.3,Garut,hijau kekuningan,kemarau,Jeruk
+6.35,150.34,0.42,12.36,Magelang,oranye,kemarau,Jeruk
+6.14,188.14,0.48,13.1,Magelang,oranye kekuningan,kemarau,Jeruk
+6.89,243.39,0.6,13.35,Probolinggo,hijau kekuningan,kemarau,Mangga
+6.61,284.94,0.54,15.55,Indramayu,hijau kekuningan,hujan,Mangga
+7.97,250.01,0.67,14.22,Probolinggo,hijau,kemarau,Mangga
+6.53,159.79,0.56,12.33,Banyuwangi,hijau,hujan,Jeruk
+6.24,258.54,0.79,13.01,Bandung,kuning kemerahan,hujan,Apel
+7.22,254.76,0.66,12.49,Pasuruan,hijau kekuningan,hujan,Mangga
+6.25,139.85,0.43,11.89,Garut,hijau,kemarau,Jeruk
+7.12,169.81,0.67,14.97,Malang,merah,kemarau,Apel
+6.35,165.97,0.47,12.11,Magelang,oranye kekuningan,kemarau,Jeruk
+6.7,232.08,0.54,16.03,Banyuwangi,hijau kekuningan,hujan,Mangga
+7.79,247.74,0.65,13.44,Probolinggo,oranye kekuningan,kemarau,Mangga
+6.57,180.0,0.67,14.0,Malang,hijau,kemarau,Apel
+7.79,208.3,0.55,13.7,Indramayu,hijau,hujan,Mangga
+6.2,134.43,0.73,12.51,Malang,hijau,hujan,Apel
+7.56,120.94,0.86,13.36,Batu,oranye kekuningan,kemarau,Apel
+8.4,252.66,0.43,11.0,Pasuruan,kuning,kemarau,Mangga
+7.01,179.91,0.64,11.02,Pasuruan,merah,kemarau,Apel
+5.66,122.41,0.29,11.66,Banyuwangi,kuning kemerahan,kemarau,Jeruk
+7.64,150.72,0.82,17.18,Malang,kuning kemerahan,hujan,Apel
+6.67,359.34,0.63,16.14,Pasuruan,hijau,kemarau,Mangga
+5.26,135.97,0.42,11.85,Magelang,oranye kekuningan,hujan,Jeruk
+7.63,339.84,0.61,14.7,Pasuruan,hijau kekuningan,hujan,Mangga
+7.2,213.58,0.57,17.52,Banyuwangi,hijau kekuningan,hujan,Mangga
+6.85,200.51,0.67,14.53,Bandung,merah,hujan,Apel
+6.29,181.31,0.51,12.23,Magelang,hijau,kemarau,Jeruk
+6.16,160.93,0.52,11.2,Banyuwangi,hijau,kemarau,Jeruk
+6.78,199.84,0.66,10.49,Garut,hijau,kemarau,Jeruk
+6.01,172.32,0.34,11.97,Garut,hijau,kemarau,Jeruk
+5.71,161.55,0.4,10.57,Banyuwangi,oranye,kemarau,Jeruk
+6.22,120.46,0.33,10.71,Garut,oranye kekuningan,hujan,Jeruk
+6.74,207.26,0.66,10.9,Bandung,hijau,kemarau,Apel
+7.73,293.44,0.7,13.27,Probolinggo,hijau,hujan,Mangga
+6.38,193.57,0.63,14.8,Malang,kuning kemerahan,hujan,Apel
+7.83,248.23,0.59,16.73,Probolinggo,hijau,kemarau,Mangga
+6.55,152.23,0.37,10.45,Magelang,oranye,hujan,Jeruk
+7.22,316.23,0.77,13.14,Probolinggo,kuning,hujan,Mangga
+6.62,184.03,0.52,11.59,Magelang,oranye kekuningan,kemarau,Jeruk
+6.88,185.33,0.74,15.3,Batu,hijau,hujan,Apel
+9.16,276.26,0.63,15.17,Indramayu,hijau,hujan,Mangga
+6.2,178.43,0.51,10.16,Magelang,oranye kekuningan,kemarau,Jeruk
+6.32,132.25,0.54,9.77,Banyuwangi,oranye,hujan,Jeruk
+6.5,201.39,0.45,14.66,Indramayu,hijau kekuningan,hujan,Mangga
+5.11,239.44,0.4,10.59,Banyuwangi,oranye kekuningan,hujan,Jeruk
+6.92,218.08,0.76,15.31,Bandung,hijau,kemarau,Apel
+6.71,158.0,0.54,12.16,Batu,hijau,hujan,Apel
+5.93,196.18,0.45,10.1,Banyuwangi,hijau,kemarau,Jeruk
+6.5,143.03,0.55,12.18,Magelang,oranye kekuningan,kemarau,Jeruk
+5.81,193.42,0.4,10.3,Magelang,merah,kemarau,Jeruk
+5.83,187.0,0.39,7.98,Malang,oranye kekuningan,hujan,Jeruk
+6.03,146.22,0.59,11.48,Batu,hijau kekuningan,kemarau,Jeruk
+6.2,124.21,0.51,11.79,Bandung,merah,kemarau,Apel
+6.69,263.67,0.53,14.61,Indramayu,hijau,hujan,Mangga
+7.91,129.51,0.6,13.04,Indramayu,hijau kekuningan,kemarau,Mangga
+6.51,140.95,0.5,10.53,Batu,hijau,kemarau,Apel
+6.56,221.27,0.65,13.35,Batu,merah,hujan,Apel
+7.77,236.66,0.59,10.47,Indramayu,kuning kemerahan,kemarau,Mangga
+7.81,251.53,0.59,14.77,Probolinggo,kuning,kemarau,Mangga
+6.62,229.7,0.59,16.45,Indramayu,hijau kekuningan,hujan,Mangga
+7.45,192.47,0.58,11.57,Malang,hijau,hujan,Apel
+6.37,252.24,0.6,14.84,Probolinggo,hijau,kemarau,Mangga
+6.78,183.37,0.6,13.72,Magelang,merah,hujan,Apel
+6.51,164.85,0.41,13.04,Banyuwangi,oranye,kemarau,Jeruk
+8.5,238.94,0.64,13.69,Garut,hijau,kemarau,Mangga
+6.53,184.91,0.61,14.57,Batu,hijau,kemarau,Apel
+6.4,140.17,0.43,11.18,Magelang,oranye,kemarau,Jeruk
+7.53,163.47,0.76,12.29,Bandung,kuning kemerahan,hujan,Apel
+6.12,167.57,0.76,9.66,Batu,merah,kemarau,Apel
+5.32,202.77,0.29,8.18,Malang,hijau,hujan,Jeruk
+7.16,241.77,0.81,14.53,Indramayu,hijau,kemarau,Mangga
+8.33,223.9,0.7,16.57,Indramayu,hijau,kemarau,Mangga
+6.81,162.94,0.57,13.17,Magelang,hijau,kemarau,Jeruk
+6.95,155.41,0.62,12.52,Bandung,hijau,hujan,Apel
+7.45,173.17,0.6,10.4,Batu,merah,kemarau,Apel
+6.37,251.85,0.4,14.31,Pasuruan,hijau,hujan,Mangga
+7.6,273.9,0.56,18.31,Banyuwangi,oranye kekuningan,hujan,Mangga
+6.57,188.87,0.44,13.68,Pasuruan,hijau kekuningan,kemarau,Mangga
+6.56,165.88,0.69,12.01,Probolinggo,hijau,kemarau,Apel
+6.45,133.67,0.65,14.71,Malang,hijau,hujan,Apel
+6.92,171.39,0.55,11.7,Malang,hijau,hujan,Jeruk
+6.79,210.68,0.53,12.59,Banyuwangi,hijau,hujan,Jeruk
+7.06,226.68,0.46,15.31,Bandung,oranye,hujan,Apel
+5.44,136.21,0.5,11.87,Magelang,oranye kekuningan,kemarau,Jeruk
+5.73,156.18,0.36,13.07,Magelang,oranye,kemarau,Jeruk
+6.67,176.85,0.5,11.55,Pasuruan,oranye,kemarau,Jeruk
+7.09,163.66,0.75,12.05,Batu,kuning kemerahan,hujan,Apel
+6.77,159.23,0.59,12.11,Bandung,kuning kemerahan,kemarau,Apel
+8.27,307.92,0.68,15.16,Indramayu,hijau kekuningan,hujan,Mangga
+6.92,186.3,0.65,9.78,Malang,merah,hujan,Apel
+5.99,104.49,0.75,11.33,Batu,merah,hujan,Apel
+6.32,168.87,0.66,13.32,Probolinggo,kuning kemerahan,kemarau,Apel
+7.32,318.06,0.63,14.6,Pasuruan,hijau kekuningan,hujan,Mangga
+6.59,235.52,0.69,16.23,Indramayu,hijau kekuningan,kemarau,Mangga
+5.86,180.84,0.51,13.13,Magelang,hijau,hujan,Jeruk
+6.89,329.57,0.49,18.5,Pasuruan,hijau kekuningan,kemarau,Mangga
+7.43,321.86,0.59,12.68,Indramayu,hijau kekuningan,kemarau,Mangga
+7.56,229.0,0.6,14.11,Malang,hijau,hujan,Apel
+6.23,147.74,0.69,10.62,Malang,kuning kemerahan,kemarau,Apel
+6.49,100.76,0.69,15.08,Probolinggo,hijau,kemarau,Mangga
+6.06,139.46,0.49,11.58,Banyuwangi,hijau,hujan,Jeruk
+8.54,297.44,0.5,14.78,Probolinggo,hijau kekuningan,hujan,Mangga
+7.36,198.35,0.55,12.98,Probolinggo,hijau kekuningan,hujan,Mangga
+5.69,164.88,0.55,12.59,Magelang,hijau,kemarau,Jeruk
+6.58,154.42,0.61,15.61,Malang,kuning kemerahan,hujan,Apel
+6.53,130.94,0.45,10.24,Magelang,hijau,kemarau,Jeruk
+5.7,170.53,0.61,12.02,Banyuwangi,hijau,kemarau,Jeruk
+5.8,166.25,0.38,11.3,Garut,oranye kekuningan,kemarau,Jeruk
+6.24,178.27,0.59,14.67,Bandung,hijau,hujan,Apel
+7.15,240.93,0.63,18.5,Probolinggo,hijau,kemarau,Mangga
+7.59,217.75,0.43,15.72,Indramayu,hijau kekuningan,hujan,Mangga
+6.6,170.25,0.84,10.79,Batu,merah,kemarau,Apel
+6.17,122.38,0.45,13.64,Garut,kuning kemerahan,hujan,Jeruk
+6.0,152.87,0.52,11.96,Batu,hijau,hujan,Apel
+7.11,179.12,0.72,16.58,Pasuruan,hijau,hujan,Mangga
+6.23,156.57,0.78,11.78,Malang,hijau,kemarau,Apel
+6.64,195.71,0.64,9.69,Bandung,hijau,kemarau,Apel
+7.56,250.94,0.46,13.92,Malang,hijau kekuningan,hujan,Mangga
+6.12,152.38,0.51,11.05,Banyuwangi,oranye,hujan,Jeruk
+7.28,138.39,0.57,17.01,Bandung,hijau,hujan,Apel
+7.04,138.97,0.71,12.74,Malang,kuning kemerahan,hujan,Apel
+7.51,215.82,0.43,16.57,Indramayu,hijau,kemarau,Mangga
+5.62,242.51,0.59,13.76,Batu,merah,kemarau,Apel
+8.02,250.54,0.64,10.04,Pasuruan,hijau kekuningan,kemarau,Mangga
+6.56,168.77,0.45,13.93,Banyuwangi,hijau,hujan,Jeruk
+8.06,96.08,0.63,13.35,Pasuruan,hijau,kemarau,Mangga
+6.8,153.8,0.47,9.66,Garut,oranye kekuningan,hujan,Jeruk
+5.93,187.51,0.43,10.54,Magelang,oranye,hujan,Jeruk
+6.0,225.85,0.78,11.34,Bandung,hijau,hujan,Apel
+6.56,123.88,0.9,12.21,Batu,oranye kekuningan,kemarau,Apel
+8.58,256.43,0.5,12.64,Pasuruan,hijau kekuningan,kemarau,Mangga
+5.49,163.03,0.39,13.32,Malang,oranye kekuningan,hujan,Jeruk
+7.41,317.56,0.44,14.47,Probolinggo,hijau,kemarau,Mangga
+8.34,288.46,0.68,14.7,Indramayu,kuning,kemarau,Mangga
+6.11,172.71,0.36,11.97,Banyuwangi,oranye,kemarau,Jeruk
+5.77,177.42,0.37,11.63,Banyuwangi,oranye kekuningan,kemarau,Jeruk
+5.93,139.94,0.34,12.35,Bandung,hijau,kemarau,Jeruk
+6.55,275.45,0.48,13.69,Indramayu,hijau,hujan,Mangga
+5.58,177.15,0.4,9.77,Garut,hijau,hujan,Jeruk
+6.13,129.56,0.58,12.03,Malang,merah,hujan,Apel
+7.22,186.46,0.55,11.16,Malang,kuning kemerahan,hujan,Apel
+8.22,165.23,0.62,12.73,Indramayu,kuning,kemarau,Mangga
+7.59,175.18,0.64,11.94,Bandung,merah,kemarau,Apel
+7.39,230.34,0.63,15.21,Probolinggo,kuning,kemarau,Mangga
+6.93,263.84,0.61,14.0,Bandung,hijau,kemarau,Mangga
+8.34,245.88,0.41,13.66,Banyuwangi,hijau,hujan,Mangga
+6.27,175.27,0.47,8.36,Banyuwangi,kuning,hujan,Jeruk
+6.4,216.43,0.39,9.4,Magelang,oranye kekuningan,hujan,Jeruk
+5.97,122.96,0.39,11.2,Banyuwangi,hijau,kemarau,Jeruk
+5.94,190.62,0.68,12.83,Bandung,merah,kemarau,Apel
+6.59,169.94,0.64,13.18,Batu,merah,hujan,Apel
+6.7,202.7,0.66,11.03,Batu,kuning kemerahan,hujan,Apel
+6.93,211.2,0.71,13.05,Bandung,hijau,hujan,Apel
+6.72,135.03,0.46,13.55,Bandung,oranye,kemarau,Jeruk
+8.08,153.65,0.61,13.12,Batu,merah,hujan,Apel
+7.37,281.29,0.75,13.27,Probolinggo,hijau kekuningan,kemarau,Mangga
+5.38,198.97,0.7,15.74,Malang,merah,kemarau,Apel
+5.97,152.75,0.51,8.62,Garut,oranye kekuningan,kemarau,Jeruk
+6.21,134.16,0.6,13.39,Malang,hijau,hujan,Apel
+6.47,194.77,0.66,10.17,Indramayu,kuning,kemarau,Mangga
+5.84,121.85,0.47,10.29,Magelang,oranye kekuningan,kemarau,Jeruk
+7.62,211.88,0.58,12.16,Indramayu,hijau,kemarau,Mangga
+6.28,225.85,0.67,10.07,Batu,kuning kemerahan,kemarau,Apel
+7.07,158.93,0.77,11.74,Malang,merah,hujan,Apel
+8.48,185.26,0.51,14.77,Pasuruan,oranye,hujan,Mangga
+5.94,86.85,0.4,11.8,Garut,hijau,hujan,Jeruk
+5.73,172.12,0.5,14.34,Magelang,oranye kekuningan,hujan,Jeruk
+7.16,360.0,0.52,12.26,Pasuruan,kuning,hujan,Mangga
+7.05,153.26,0.47,11.36,Indramayu,hijau,kemarau,Mangga
+6.13,158.37,0.62,11.65,Garut,oranye,hujan,Jeruk
+6.89,163.2,0.76,12.18,Malang,kuning kemerahan,kemarau,Apel
+7.76,155.34,0.55,11.3,Magelang,oranye,hujan,Jeruk
+5.68,171.5,0.52,12.41,Garut,hijau,kemarau,Jeruk
+8.04,227.69,0.68,13.59,Probolinggo,kuning,kemarau,Mangga
+6.38,288.11,0.53,15.04,Pasuruan,hijau,hujan,Mangga
+6.94,232.07,0.48,13.97,Indramayu,hijau kekuningan,kemarau,Mangga
+6.86,202.72,0.56,12.79,Malang,oranye kekuningan,kemarau,Apel
+6.95,182.84,0.69,13.41,Garut,hijau,hujan,Apel

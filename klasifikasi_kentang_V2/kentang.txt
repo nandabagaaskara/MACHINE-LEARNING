@@ -1,0 +1,47 @@
+import streamlit as st
+import pandas as pd
+import joblib
+
+st.set_page_config(
+    page_title="Aplikasi Menebak jenis kentang",
+    page_icon="tangerine:"
+)
+
+model = joblib.load("kentang_baru.joblib")
+
+st.title("Belajar Klasifikasi Kentang")
+st.markdown("Aplikasi Machine Learning untuk Mengklasifikasi Jenis Kentang")
+
+berat = st.slider("berat("), 60.0, 309.09, 211.95)
+diameter = st.slider("diameter("), 4.0, 7.0, 8.9)
+kadar_air = st.slider("kadar air("), 65.2, 76.7, 88.0)
+
+jenis_kentang = st.pills("Jenis Kentang", ["Russet", "Granola", "Kentang Merah"], default="Russet")
+metode_panen = st.pills("Metode Panen", ["Mesin", "Manual"], default="Mesin")
+kondisi_penyimpanan = st.pills("Kondisi Penyimpanan", ["Gudang", "Suhu Ruang", "Cold Storage"], default="Gudang")
+ada_tunas = st.pills("Ada Tunas", ["Ya", "Tidak"], default="Ya")
+tingkat_kematangan = ("Tingkat Kematangan", ["Belum Matang", "Matang", "Sangat Matang"], default="Sangat Matang")
+
+if st.button("Prediksi", type="primary"):
+	dataframe = pd.DataFrame(
+		[["berat", "diameter", "kadar_air", "jenis_kentang", "metode_panen", 
+			"kondisi_penyimpanan", "ada_tunas", "tingkat_kematangan"]],
+                 columns=["berat", "diameter", "kadar_air", "jenis_kentang", "metode_panen", "kondisi_penyimpanan", "ada_tunas", "tingkat_kematangan"])
+
+
+prediksi = model.predict(dataframe)[0]
+presentase = max(model.predict_proba(dataframe)[0])
+
+st.success(f"Model memprediksi **{prediksi}** dengan tingkat keyakinan **{presentase*100:.2f}%**")
+st.snow()
+
+st.divider()
+st.caption("Dibuat oleh **Ananda Nauval**")
+
+
+
+
+
+
+
+

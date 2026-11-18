@@ -1,0 +1,501 @@
+berat_g,panjang_cm,diameter_cm,kadar_gula_brix,varietas,asal_kota,tingkat_kematangan,grade_kualitas
+316.2,14.0,7.4,13.2,Harum Manis,Pasuruan,Mengkal,Standar
+233.6,11.8,6.5,8.3,Gedong Gincu,Majalengka,Mentah,Afkir
+308.3,13.8,7.9,18.5,Golek,Probolinggo,Matang,Premium
+284.3,13.1,8.8,14.0,Golek,Indramayu,Mengkal,Standar
+285.0,12.2,7.2,15.7,Harum Manis,Probolinggo,Mengkal,Standar
+294.3,12.9,6.9,14.8,Manalagi,Pasuruan,Mengkal,Standar
+318.5,12.7,7.4,13.1,Golek,Probolinggo,Mengkal,Standar
+319.6,13.4,7.8,18.2,Harum Manis,Majalengka,Terlalu Matang,Premium
+339.7,15.2,9.1,19.4,Manalagi,Probolinggo,Terlalu Matang,Premium
+314.8,15.8,8.4,17.4,Manalagi,Indramayu,Matang,Premium
+298.2,13.5,7.7,12.7,Gedong Gincu,Indramayu,Matang,Standar
+384.3,11.6,7.3,13.4,Manalagi,Indramayu,Mengkal,Standar
+362.8,12.1,8.4,18.5,Manalagi,Probolinggo,Matang,Premium
+221.7,10.2,7.4,9.5,Gedong Gincu,Probolinggo,Mentah,Afkir
+269.7,12.9,7.0,6.6,Gedong Gincu,Majalengka,Mengkal,Afkir
+398.2,14.1,6.9,18.5,Harum Manis,Pasuruan,Matang,Premium
+355.2,15.0,9.6,18.3,Gedong Gincu,Majalengka,Matang,Premium
+312.6,13.2,6.9,7.4,Gedong Gincu,Majalengka,Terlalu Matang,Afkir
+205.0,13.8,8.5,8.7,Manalagi,Indramayu,Matang,Afkir
+245.2,13.1,6.8,9.3,Manalagi,Probolinggo,Mentah,Afkir
+160.2,8.4,6.0,10.0,Gedong Gincu,Probolinggo,Matang,Afkir
+343.9,15.8,8.8,14.3,Golek,Pasuruan,Terlalu Matang,Premium
+305.1,11.1,7.0,14.4,Harum Manis,Probolinggo,Mengkal,Standar
+173.5,8.8,5.3,13.4,Gedong Gincu,Majalengka,Matang,Afkir
+292.9,13.6,7.9,15.6,Gedong Gincu,Pasuruan,Mengkal,Standar
+285.2,10.5,7.8,8.8,Harum Manis,Probolinggo,Mentah,Afkir
+320.1,14.5,9.3,16.9,Gedong Gincu,Probolinggo,Terlalu Matang,Premium
+428.2,14.7,8.8,15.8,Gedong Gincu,Majalengka,Terlalu Matang,Premium
+251.6,11.7,8.2,14.9,Gedong Gincu,Pasuruan,Matang,Standar
+404.4,15.0,7.4,17.6,Gedong Gincu,Pasuruan,Terlalu Matang,Premium
+315.2,10.6,7.7,13.6,Harum Manis,Majalengka,Mengkal,Standar
+356.7,12.4,7.7,15.6,Gedong Gincu,Pasuruan,Terlalu Matang,Premium
+281.7,10.6,7.4,8.1,Golek,Majalengka,Mentah,Afkir
+305.9,15.1,7.6,17.2,Golek,Majalengka,Matang,Premium
+324.5,15.1,8.4,17.0,Manalagi,Probolinggo,Matang,Premium
+285.0,11.0,7.2,7.0,Manalagi,Majalengka,Matang,Afkir
+265.8,13.3,7.2,6.4,Golek,Indramayu,Mentah,Afkir
+396.3,14.3,8.3,16.1,Gedong Gincu,Probolinggo,Matang,Premium
+356.8,13.9,9.5,17.3,Gedong Gincu,Probolinggo,Matang,Premium
+413.4,13.7,7.6,17.5,Golek,Pasuruan,Matang,Premium
+368.1,17.2,8.0,20.9,Harum Manis,Probolinggo,Terlalu Matang,Premium
+339.6,14.2,8.3,17.1,Golek,Majalengka,Terlalu Matang,Premium
+381.0,15.2,8.2,14.9,Gedong Gincu,Indramayu,Matang,Premium
+350.3,15.1,10.4,18.1,Golek,Probolinggo,Matang,Premium
+329.3,13.0,7.9,15.7,Gedong Gincu,Pasuruan,Mengkal,Standar
+267.5,12.6,6.3,7.7,Manalagi,Probolinggo,Mentah,Afkir
+363.3,14.0,9.2,16.1,Golek,Indramayu,Matang,Premium
+299.3,10.8,7.0,15.1,Golek,Indramayu,Matang,Standar
+361.5,15.1,9.5,15.2,Harum Manis,Probolinggo,Matang,Premium
+312.3,11.0,7.6,14.8,Gedong Gincu,Indramayu,Mengkal,Standar
+284.3,11.2,7.3,17.4,Manalagi,Probolinggo,Mengkal,Standar
+347.7,15.7,8.6,18.4,Manalagi,Probolinggo,Matang,Premium
+305.0,11.7,6.8,13.8,Gedong Gincu,Probolinggo,Matang,Standar
+166.0,9.0,5.0,14.5,Manalagi,Probolinggo,Matang,Afkir
+302.3,12.6,7.4,14.9,Manalagi,Indramayu,Mengkal,Standar
+301.1,11.3,7.7,11.7,Manalagi,Indramayu,Matang,Standar
+224.9,10.7,7.0,11.2,Harum Manis,Pasuruan,Mentah,Afkir
+299.5,11.5,7.5,13.2,Golek,Pasuruan,Mengkal,Standar
+398.1,15.4,8.8,18.1,Harum Manis,Pasuruan,Matang,Premium
+366.7,14.5,8.6,16.8,Gedong Gincu,Probolinggo,Terlalu Matang,Premium
+289.2,14.4,8.1,15.7,Harum Manis,Probolinggo,Matang,Standar
+425.7,13.5,8.0,17.1,Gedong Gincu,Indramayu,Matang,Premium
+252.2,12.9,7.8,14.7,Golek,Majalengka,Mengkal,Standar
+330.5,9.9,7.3,8.5,Harum Manis,Indramayu,Mentah,Afkir
+368.9,13.2,8.7,17.9,Harum Manis,Indramayu,Terlalu Matang,Premium
+257.7,10.3,7.9,9.3,Golek,Probolinggo,Mentah,Afkir
+173.7,7.4,5.3,12.1,Manalagi,Probolinggo,Mentah,Afkir
+261.6,9.9,7.9,9.2,Golek,Majalengka,Mentah,Afkir
+351.5,14.3,7.4,14.7,Gedong Gincu,Probolinggo,Mengkal,Standar
+404.7,15.6,8.2,17.5,Manalagi,Probolinggo,Matang,Premium
+270.4,10.5,7.4,14.4,Golek,Indramayu,Mengkal,Standar
+316.7,11.3,6.7,11.1,Gedong Gincu,Indramayu,Mentah,Afkir
+179.9,9.4,6.6,8.1,Harum Manis,Majalengka,Terlalu Matang,Afkir
+430.3,13.2,9.5,16.8,Manalagi,Probolinggo,Matang,Premium
+301.1,13.6,7.5,13.9,Harum Manis,Pasuruan,Mengkal,Standar
+276.8,10.8,6.9,6.3,Golek,Majalengka,Mengkal,Afkir
+358.8,13.4,8.6,21.0,Manalagi,Probolinggo,Matang,Premium
+304.5,12.5,7.9,13.6,Harum Manis,Indramayu,Mengkal,Standar
+305.5,10.8,7.2,8.5,Golek,Majalengka,Matang,Afkir
+324.9,12.5,8.7,17.3,Golek,Indramayu,Matang,Premium
+301.9,11.6,7.1,12.1,Harum Manis,Pasuruan,Mengkal,Standar
+364.3,11.9,7.7,15.5,Harum Manis,Probolinggo,Mengkal,Standar
+317.8,12.2,6.8,14.2,Golek,Probolinggo,Mengkal,Standar
+353.8,11.8,9.0,18.2,Harum Manis,Probolinggo,Matang,Premium
+295.8,12.2,8.4,9.1,Golek,Majalengka,Matang,Afkir
+257.1,9.8,6.2,7.5,Harum Manis,Indramayu,Matang,Afkir
+300.3,11.6,7.4,14.1,Golek,Majalengka,Mengkal,Standar
+349.9,14.5,7.8,12.3,Gedong Gincu,Indramayu,Mengkal,Standar
+357.8,13.3,9.3,18.7,Harum Manis,Probolinggo,Matang,Premium
+291.1,11.3,7.3,7.3,Gedong Gincu,Majalengka,Mengkal,Afkir
+376.0,15.3,8.8,18.7,Harum Manis,Majalengka,Matang,Premium
+351.8,15.2,9.5,19.2,Golek,Indramayu,Matang,Premium
+317.7,14.7,8.5,11.6,Gedong Gincu,Pasuruan,Mengkal,Standar
+242.8,13.9,8.1,12.4,Golek,Indramayu,Matang,Standar
+411.2,14.5,9.0,19.5,Manalagi,Probolinggo,Terlalu Matang,Premium
+358.4,16.7,8.3,18.4,Gedong Gincu,Indramayu,Matang,Premium
+301.4,15.0,7.0,17.1,Harum Manis,Majalengka,Mengkal,Standar
+264.5,13.8,6.3,7.1,Manalagi,Pasuruan,Mentah,Afkir
+306.6,16.3,8.9,17.9,Golek,Majalengka,Matang,Premium
+294.9,12.5,8.4,14.2,Golek,Indramayu,Matang,Standar
+347.1,13.8,8.3,12.9,Golek,Probolinggo,Matang,Standar
+261.2,11.4,7.5,7.1,Manalagi,Probolinggo,Mentah,Afkir
+229.4,10.8,7.5,8.1,Manalagi,Pasuruan,Mentah,Afkir
+385.6,11.7,8.4,18.9,Harum Manis,Pasuruan,Matang,Premium
+293.5,11.0,7.4,13.2,Harum Manis,Majalengka,Mengkal,Standar
+327.0,10.7,7.0,14.1,Gedong Gincu,Probolinggo,Matang,Standar
+437.2,14.6,8.5,18.0,Golek,Indramayu,Matang,Premium
+151.3,10.5,6.2,13.3,Gedong Gincu,Indramayu,Mentah,Afkir
+234.0,15.4,8.2,7.5,Manalagi,Indramayu,Terlalu Matang,Afkir
+355.5,15.1,9.0,16.0,Harum Manis,Pasuruan,Matang,Premium
+388.1,16.0,8.9,16.3,Gedong Gincu,Majalengka,Matang,Premium
+375.0,13.2,8.3,17.7,Manalagi,Probolinggo,Matang,Premium
+291.0,13.7,7.0,14.2,Gedong Gincu,Indramayu,Mengkal,Standar
+274.1,11.7,7.8,10.4,Manalagi,Indramayu,Mentah,Afkir
+225.3,8.9,5.7,9.9,Harum Manis,Majalengka,Mentah,Afkir
+248.0,14.2,7.6,13.4,Golek,Majalengka,Matang,Standar
+389.2,14.5,8.3,20.0,Golek,Indramayu,Matang,Premium
+319.6,15.4,8.6,17.7,Gedong Gincu,Indramayu,Terlalu Matang,Premium
+259.3,13.1,8.5,14.4,Harum Manis,Indramayu,Matang,Standar
+367.7,15.7,9.5,19.5,Golek,Indramayu,Matang,Premium
+261.3,12.0,7.5,6.8,Golek,Probolinggo,Matang,Afkir
+384.7,14.4,8.9,20.3,Manalagi,Indramayu,Terlalu Matang,Premium
+298.8,11.4,7.6,11.4,Gedong Gincu,Indramayu,Mengkal,Standar
+190.9,12.5,6.6,9.4,Harum Manis,Indramayu,Mentah,Afkir
+419.3,14.4,7.6,17.4,Harum Manis,Probolinggo,Terlalu Matang,Premium
+309.6,11.3,7.3,9.4,Gedong Gincu,Pasuruan,Terlalu Matang,Afkir
+320.4,13.1,8.1,14.8,Gedong Gincu,Pasuruan,Matang,Standar
+372.9,14.7,8.7,16.1,Harum Manis,Majalengka,Terlalu Matang,Premium
+373.4,14.2,9.2,17.9,Harum Manis,Pasuruan,Terlalu Matang,Premium
+362.9,13.9,8.2,17.5,Golek,Pasuruan,Matang,Premium
+293.5,12.6,7.7,11.2,Gedong Gincu,Indramayu,Matang,Standar
+368.0,15.6,8.5,19.6,Golek,Probolinggo,Terlalu Matang,Premium
+169.7,10.4,7.1,10.3,Manalagi,Indramayu,Terlalu Matang,Afkir
+352.0,13.7,9.5,18.3,Harum Manis,Indramayu,Matang,Premium
+311.4,13.2,6.7,14.3,Gedong Gincu,Indramayu,Matang,Standar
+331.4,14.2,8.8,15.7,Manalagi,Probolinggo,Terlalu Matang,Premium
+246.3,12.5,7.3,8.0,Gedong Gincu,Pasuruan,Mentah,Afkir
+231.9,10.1,7.2,8.1,Golek,Indramayu,Mentah,Afkir
+290.7,11.3,7.9,14.8,Harum Manis,Indramayu,Mengkal,Standar
+227.1,9.9,5.6,11.3,Golek,Probolinggo,Mentah,Afkir
+284.9,12.5,7.8,13.3,Manalagi,Majalengka,Matang,Standar
+361.4,13.7,9.0,18.1,Gedong Gincu,Pasuruan,Matang,Premium
+310.2,13.1,8.1,13.6,Gedong Gincu,Pasuruan,Mengkal,Standar
+324.9,13.6,7.9,18.9,Gedong Gincu,Probolinggo,Terlalu Matang,Premium
+244.2,11.2,7.6,7.8,Harum Manis,Pasuruan,Mentah,Afkir
+360.9,16.0,8.6,18.1,Gedong Gincu,Indramayu,Matang,Premium
+404.9,14.8,8.7,17.4,Gedong Gincu,Majalengka,Matang,Premium
+256.1,11.6,6.7,8.4,Manalagi,Majalengka,Mentah,Afkir
+254.8,13.5,7.3,13.7,Golek,Probolinggo,Matang,Standar
+262.8,10.2,6.7,5.9,Harum Manis,Majalengka,Mentah,Afkir
+276.6,10.5,7.3,8.7,Golek,Pasuruan,Mentah,Afkir
+306.1,11.9,6.9,14.5,Gedong Gincu,Majalengka,Matang,Standar
+356.6,15.3,7.8,20.5,Gedong Gincu,Probolinggo,Matang,Premium
+258.7,11.2,7.2,7.3,Harum Manis,Indramayu,Terlalu Matang,Afkir
+269.6,12.7,7.4,12.1,Gedong Gincu,Majalengka,Mengkal,Standar
+375.4,14.2,9.5,20.3,Harum Manis,Majalengka,Matang,Premium
+311.1,11.5,7.9,11.4,Gedong Gincu,Probolinggo,Mengkal,Standar
+176.5,8.3,7.2,10.0,Harum Manis,Majalengka,Terlalu Matang,Afkir
+323.5,13.3,7.3,13.6,Harum Manis,Probolinggo,Mengkal,Standar
+361.9,13.6,8.2,19.6,Harum Manis,Indramayu,Matang,Premium
+262.9,12.7,8.0,8.4,Golek,Indramayu,Mengkal,Afkir
+261.7,13.4,8.1,14.2,Harum Manis,Pasuruan,Matang,Standar
+353.9,13.7,7.4,15.3,Manalagi,Majalengka,Mengkal,Standar
+379.5,16.4,8.3,21.2,Golek,Pasuruan,Matang,Premium
+377.1,15.0,8.2,17.9,Golek,Majalengka,Matang,Premium
+375.2,12.1,8.0,18.0,Manalagi,Indramayu,Matang,Premium
+374.5,14.0,9.2,17.6,Golek,Pasuruan,Matang,Premium
+377.6,12.8,8.8,14.0,Golek,Majalengka,Mengkal,Standar
+332.9,12.9,7.1,11.9,Gedong Gincu,Indramayu,Mengkal,Standar
+318.7,11.8,8.3,11.7,Harum Manis,Pasuruan,Matang,Standar
+282.4,12.4,7.1,13.3,Golek,Pasuruan,Mengkal,Standar
+282.9,12.8,6.8,14.8,Manalagi,Probolinggo,Mengkal,Standar
+170.6,9.3,6.0,12.0,Harum Manis,Pasuruan,Matang,Afkir
+338.5,11.3,7.1,6.4,Golek,Indramayu,Terlalu Matang,Afkir
+291.3,12.2,7.3,16.0,Harum Manis,Probolinggo,Matang,Standar
+305.4,14.5,6.6,8.3,Gedong Gincu,Pasuruan,Mentah,Afkir
+341.3,13.9,9.5,19.2,Harum Manis,Pasuruan,Matang,Premium
+301.7,12.9,7.6,11.5,Manalagi,Pasuruan,Mengkal,Standar
+301.6,12.6,7.3,13.0,Manalagi,Majalengka,Matang,Standar
+356.9,14.5,8.9,17.2,Golek,Probolinggo,Terlalu Matang,Premium
+202.1,10.2,6.3,8.7,Manalagi,Majalengka,Mentah,Afkir
+275.2,12.1,6.7,14.6,Harum Manis,Indramayu,Matang,Standar
+212.3,9.5,5.9,12.9,Harum Manis,Probolinggo,Mengkal,Afkir
+301.6,12.8,8.0,7.2,Manalagi,Indramayu,Terlalu Matang,Afkir
+393.3,12.7,9.2,21.0,Manalagi,Probolinggo,Matang,Premium
+246.2,14.3,7.5,13.2,Harum Manis,Probolinggo,Mengkal,Standar
+378.5,12.5,6.7,13.7,Golek,Indramayu,Mengkal,Standar
+321.4,13.5,8.2,13.6,Manalagi,Indramayu,Mengkal,Standar
+253.6,10.9,6.3,8.6,Harum Manis,Majalengka,Mentah,Afkir
+275.3,11.4,7.6,15.2,Gedong Gincu,Probolinggo,Mengkal,Standar
+284.9,10.9,7.4,13.3,Golek,Indramayu,Matang,Standar
+342.0,14.9,7.5,18.7,Harum Manis,Pasuruan,Terlalu Matang,Premium
+285.5,12.6,7.7,13.7,Manalagi,Indramayu,Matang,Standar
+191.6,10.2,5.8,8.8,Golek,Majalengka,Mengkal,Afkir
+254.3,10.7,7.6,8.0,Gedong Gincu,Probolinggo,Matang,Afkir
+279.1,14.6,6.9,13.9,Golek,Pasuruan,Matang,Standar
+169.1,8.1,5.6,9.7,Manalagi,Probolinggo,Matang,Afkir
+357.4,17.6,8.0,20.5,Golek,Probolinggo,Matang,Premium
+307.6,12.0,6.7,14.2,Harum Manis,Pasuruan,Mengkal,Standar
+342.5,13.3,8.1,16.2,Harum Manis,Majalengka,Matang,Premium
+284.5,13.2,8.0,13.6,Golek,Majalengka,Matang,Standar
+330.7,11.3,8.3,14.0,Harum Manis,Indramayu,Mengkal,Standar
+330.3,15.3,8.0,18.1,Gedong Gincu,Indramayu,Matang,Premium
+211.8,10.5,7.6,9.2,Harum Manis,Majalengka,Mentah,Afkir
+304.8,12.2,7.6,13.3,Golek,Indramayu,Matang,Standar
+273.2,11.6,7.1,13.2,Golek,Majalengka,Matang,Standar
+272.4,10.3,7.7,16.5,Manalagi,Pasuruan,Matang,Standar
+290.4,13.0,7.3,14.9,Golek,Majalengka,Matang,Standar
+232.3,10.6,6.0,8.5,Golek,Pasuruan,Mentah,Afkir
+301.3,12.7,7.4,13.7,Golek,Indramayu,Matang,Standar
+288.6,11.9,7.5,8.5,Golek,Probolinggo,Mengkal,Afkir
+375.2,14.6,7.4,17.0,Golek,Majalengka,Matang,Premium
+269.8,13.1,8.3,15.0,Gedong Gincu,Pasuruan,Mengkal,Standar
+339.3,14.4,8.2,17.4,Manalagi,Indramayu,Matang,Premium
+348.4,14.7,8.6,18.0,Manalagi,Pasuruan,Terlalu Matang,Premium
+312.5,14.8,7.0,13.2,Gedong Gincu,Probolinggo,Matang,Standar
+270.7,10.7,7.8,14.4,Harum Manis,Pasuruan,Matang,Standar
+348.3,14.5,9.0,16.8,Golek,Indramayu,Matang,Premium
+299.6,13.1,7.6,12.3,Harum Manis,Probolinggo,Mengkal,Standar
+302.0,10.5,7.5,8.7,Manalagi,Probolinggo,Mentah,Afkir
+283.3,13.5,7.2,15.7,Harum Manis,Indramayu,Mengkal,Standar
+179.6,10.3,5.5,6.7,Golek,Majalengka,Mentah,Afkir
+270.2,12.6,7.5,15.6,Gedong Gincu,Pasuruan,Matang,Standar
+349.0,14.7,7.7,16.5,Harum Manis,Pasuruan,Matang,Premium
+291.5,12.1,7.5,7.9,Manalagi,Pasuruan,Mentah,Afkir
+291.9,12.2,8.2,14.2,Golek,Pasuruan,Matang,Standar
+336.4,14.3,7.9,14.2,Golek,Pasuruan,Matang,Standar
+328.7,12.1,9.7,16.3,Manalagi,Probolinggo,Terlalu Matang,Premium
+366.3,14.3,7.7,19.4,Harum Manis,Majalengka,Terlalu Matang,Premium
+222.6,9.7,6.2,14.2,Harum Manis,Majalengka,Matang,Afkir
+308.2,12.5,7.5,13.4,Manalagi,Majalengka,Matang,Standar
+235.2,9.6,7.8,8.3,Manalagi,Pasuruan,Mentah,Afkir
+304.1,11.6,7.4,14.7,Manalagi,Pasuruan,Mengkal,Standar
+313.5,12.8,7.1,12.8,Gedong Gincu,Probolinggo,Matang,Standar
+319.0,13.1,8.3,14.6,Harum Manis,Indramayu,Mengkal,Standar
+305.8,12.7,7.9,14.5,Gedong Gincu,Indramayu,Matang,Standar
+255.5,9.5,7.6,7.8,Manalagi,Pasuruan,Matang,Afkir
+347.5,13.1,9.1,17.6,Golek,Probolinggo,Matang,Premium
+318.4,11.5,7.5,12.7,Harum Manis,Majalengka,Mengkal,Standar
+327.3,11.1,7.7,12.5,Gedong Gincu,Majalengka,Matang,Standar
+210.0,10.7,6.3,6.2,Harum Manis,Pasuruan,Mentah,Afkir
+405.4,15.3,7.9,20.8,Gedong Gincu,Probolinggo,Matang,Premium
+289.1,10.3,7.6,9.2,Manalagi,Pasuruan,Mengkal,Afkir
+369.7,14.3,8.2,15.6,Harum Manis,Pasuruan,Terlalu Matang,Premium
+193.9,8.9,6.5,13.9,Harum Manis,Majalengka,Mengkal,Afkir
+341.5,12.0,7.2,14.1,Golek,Pasuruan,Matang,Standar
+370.6,14.6,7.9,16.7,Manalagi,Majalengka,Matang,Premium
+314.8,11.7,6.8,7.0,Gedong Gincu,Indramayu,Terlalu Matang,Afkir
+287.3,15.6,8.9,17.6,Gedong Gincu,Indramayu,Matang,Premium
+317.6,12.6,7.4,12.8,Gedong Gincu,Majalengka,Mengkal,Standar
+319.9,11.2,7.6,11.9,Golek,Probolinggo,Mengkal,Standar
+167.9,10.6,6.1,9.8,Gedong Gincu,Majalengka,Mentah,Afkir
+310.7,13.2,7.6,13.1,Harum Manis,Probolinggo,Mengkal,Standar
+322.0,14.4,8.2,21.0,Golek,Indramayu,Matang,Premium
+300.5,11.8,7.4,15.1,Golek,Majalengka,Mengkal,Standar
+254.5,12.6,7.4,10.2,Gedong Gincu,Majalengka,Mentah,Afkir
+330.8,15.1,9.4,18.6,Gedong Gincu,Probolinggo,Matang,Premium
+267.9,11.6,8.1,12.9,Gedong Gincu,Indramayu,Mengkal,Standar
+296.8,11.6,7.2,12.9,Manalagi,Indramayu,Mengkal,Standar
+276.4,11.4,6.9,14.1,Harum Manis,Majalengka,Matang,Standar
+269.3,12.7,6.7,15.1,Gedong Gincu,Majalengka,Matang,Standar
+347.2,14.6,9.3,16.8,Golek,Probolinggo,Terlalu Matang,Premium
+370.2,13.8,7.9,17.9,Golek,Indramayu,Terlalu Matang,Premium
+371.7,13.6,8.2,18.8,Gedong Gincu,Indramayu,Matang,Premium
+183.4,10.3,5.5,13.3,Gedong Gincu,Probolinggo,Matang,Afkir
+178.2,6.8,5.8,13.0,Gedong Gincu,Majalengka,Mengkal,Afkir
+367.3,13.9,9.0,17.7,Gedong Gincu,Majalengka,Terlalu Matang,Premium
+418.3,12.6,9.0,18.9,Manalagi,Probolinggo,Terlalu Matang,Premium
+345.3,14.9,7.9,18.8,Harum Manis,Majalengka,Matang,Premium
+280.4,10.4,6.4,7.2,Manalagi,Pasuruan,Mentah,Afkir
+403.7,13.9,8.4,18.5,Harum Manis,Probolinggo,Terlalu Matang,Premium
+385.8,14.9,7.6,15.9,Manalagi,Indramayu,Matang,Premium
+332.7,12.1,7.3,13.5,Golek,Pasuruan,Mengkal,Standar
+371.6,13.7,9.0,18.7,Golek,Pasuruan,Terlalu Matang,Premium
+314.2,14.7,7.1,16.0,Harum Manis,Pasuruan,Mengkal,Standar
+309.0,15.1,8.9,16.7,Gedong Gincu,Majalengka,Matang,Premium
+349.3,15.5,8.8,21.4,Gedong Gincu,Majalengka,Terlalu Matang,Premium
+385.6,13.7,9.6,19.3,Gedong Gincu,Pasuruan,Matang,Premium
+365.4,16.6,7.8,17.8,Gedong Gincu,Probolinggo,Matang,Premium
+357.7,15.3,8.8,19.8,Golek,Majalengka,Matang,Premium
+333.1,13.4,8.7,18.0,Gedong Gincu,Indramayu,Matang,Premium
+320.2,12.7,7.4,11.6,Golek,Probolinggo,Mengkal,Standar
+237.1,11.1,8.7,12.7,Manalagi,Majalengka,Mengkal,Standar
+233.0,12.2,5.1,6.8,Harum Manis,Indramayu,Mentah,Afkir
+342.6,15.5,8.6,20.0,Golek,Pasuruan,Terlalu Matang,Premium
+292.7,12.6,7.9,13.4,Manalagi,Probolinggo,Mengkal,Standar
+308.6,13.3,7.9,12.1,Manalagi,Majalengka,Mengkal,Standar
+317.2,12.9,7.3,14.2,Gedong Gincu,Indramayu,Matang,Standar
+175.8,8.0,5.9,11.2,Gedong Gincu,Indramayu,Mengkal,Afkir
+413.5,13.2,9.0,18.5,Harum Manis,Pasuruan,Matang,Premium
+311.3,11.4,7.6,15.5,Manalagi,Indramayu,Matang,Standar
+146.1,8.4,7.3,10.0,Golek,Probolinggo,Mengkal,Afkir
+294.3,9.7,7.5,9.6,Golek,Probolinggo,Mentah,Afkir
+270.2,13.4,8.0,12.7,Golek,Majalengka,Mengkal,Standar
+237.4,11.3,6.6,8.9,Manalagi,Pasuruan,Mentah,Afkir
+268.3,12.5,7.3,13.7,Gedong Gincu,Pasuruan,Matang,Standar
+319.3,13.7,6.9,7.3,Manalagi,Probolinggo,Mengkal,Afkir
+302.7,13.7,7.6,14.9,Harum Manis,Indramayu,Mengkal,Standar
+360.8,15.0,7.4,15.8,Harum Manis,Probolinggo,Matang,Premium
+361.4,14.4,7.7,15.8,Harum Manis,Indramayu,Matang,Premium
+278.4,12.6,7.0,13.9,Golek,Majalengka,Mengkal,Standar
+183.7,7.8,6.8,11.5,Golek,Majalengka,Matang,Afkir
+256.4,11.3,7.1,7.0,Manalagi,Indramayu,Terlalu Matang,Afkir
+322.8,14.7,8.7,17.5,Manalagi,Pasuruan,Matang,Premium
+313.0,14.4,6.5,8.0,Manalagi,Majalengka,Mentah,Afkir
+375.7,14.8,8.7,16.5,Harum Manis,Probolinggo,Matang,Premium
+283.0,12.6,7.3,15.9,Manalagi,Majalengka,Mengkal,Standar
+279.6,12.5,7.4,8.5,Manalagi,Pasuruan,Mengkal,Afkir
+254.6,14.4,7.9,13.7,Manalagi,Probolinggo,Mengkal,Standar
+245.0,10.8,8.3,15.5,Harum Manis,Indramayu,Matang,Standar
+265.4,13.5,7.1,12.2,Manalagi,Probolinggo,Mengkal,Standar
+381.7,13.5,9.8,18.7,Manalagi,Indramayu,Matang,Premium
+283.4,11.8,7.3,9.8,Harum Manis,Majalengka,Mentah,Afkir
+320.0,13.3,8.1,14.3,Harum Manis,Probolinggo,Matang,Standar
+279.5,12.5,6.7,11.5,Gedong Gincu,Pasuruan,Mengkal,Standar
+303.2,14.8,8.5,16.8,Manalagi,Indramayu,Terlalu Matang,Premium
+296.0,11.8,7.0,12.6,Gedong Gincu,Indramayu,Mengkal,Standar
+314.5,12.3,6.3,7.8,Golek,Majalengka,Mentah,Afkir
+278.6,12.8,7.5,14.7,Harum Manis,Pasuruan,Mengkal,Standar
+305.2,12.0,7.9,12.3,Gedong Gincu,Indramayu,Matang,Standar
+225.7,13.3,7.2,10.2,Golek,Indramayu,Mentah,Afkir
+381.2,15.6,9.0,18.3,Harum Manis,Pasuruan,Matang,Premium
+304.6,11.4,7.6,14.8,Golek,Probolinggo,Matang,Standar
+291.7,11.9,7.4,6.9,Manalagi,Probolinggo,Mengkal,Afkir
+311.5,13.4,7.3,12.8,Gedong Gincu,Pasuruan,Matang,Standar
+371.5,13.5,9.8,17.4,Gedong Gincu,Majalengka,Terlalu Matang,Premium
+389.5,14.1,7.9,17.9,Golek,Majalengka,Matang,Premium
+234.1,13.2,7.0,9.5,Harum Manis,Majalengka,Mentah,Afkir
+391.2,14.4,8.9,16.4,Harum Manis,Indramayu,Matang,Premium
+398.2,15.5,9.1,15.9,Gedong Gincu,Majalengka,Matang,Premium
+291.8,13.1,7.2,13.3,Golek,Probolinggo,Mengkal,Standar
+261.9,11.4,7.4,10.3,Gedong Gincu,Pasuruan,Mengkal,Standar
+299.5,12.2,7.5,14.2,Golek,Majalengka,Matang,Standar
+363.6,16.4,8.4,18.3,Gedong Gincu,Majalengka,Matang,Premium
+363.1,16.4,7.8,15.8,Harum Manis,Probolinggo,Matang,Premium
+380.1,15.3,7.1,16.6,Gedong Gincu,Probolinggo,Matang,Premium
+356.9,12.5,8.4,20.5,Harum Manis,Probolinggo,Matang,Premium
+222.5,9.4,6.4,15.0,Harum Manis,Pasuruan,Mengkal,Afkir
+290.6,12.2,8.1,14.2,Manalagi,Indramayu,Mengkal,Standar
+321.1,16.4,7.8,19.3,Harum Manis,Majalengka,Matang,Premium
+186.6,9.6,5.5,10.7,Gedong Gincu,Indramayu,Mengkal,Afkir
+373.7,14.3,8.6,18.6,Golek,Pasuruan,Terlalu Matang,Premium
+263.1,11.9,7.1,6.3,Golek,Indramayu,Terlalu Matang,Afkir
+171.4,9.6,5.2,11.9,Gedong Gincu,Probolinggo,Mentah,Afkir
+284.9,12.0,7.5,6.9,Manalagi,Pasuruan,Matang,Afkir
+313.1,12.4,7.5,14.0,Harum Manis,Pasuruan,Matang,Standar
+321.8,13.4,7.3,6.3,Gedong Gincu,Pasuruan,Mengkal,Afkir
+155.0,9.6,6.4,10.1,Gedong Gincu,Probolinggo,Terlalu Matang,Afkir
+249.3,10.3,6.2,9.5,Golek,Probolinggo,Mentah,Afkir
+319.7,12.6,8.6,18.2,Gedong Gincu,Pasuruan,Terlalu Matang,Premium
+282.9,13.3,6.5,14.6,Golek,Probolinggo,Matang,Standar
+314.2,14.5,8.6,17.7,Golek,Indramayu,Matang,Premium
+182.3,13.5,7.4,8.3,Harum Manis,Majalengka,Mentah,Afkir
+402.6,13.9,7.6,18.3,Manalagi,Pasuruan,Matang,Premium
+362.8,14.1,7.7,16.6,Gedong Gincu,Pasuruan,Terlalu Matang,Premium
+322.5,13.2,8.0,12.9,Manalagi,Majalengka,Mengkal,Standar
+309.2,12.3,8.0,10.9,Harum Manis,Majalengka,Mengkal,Standar
+334.2,11.7,7.2,12.8,Gedong Gincu,Indramayu,Mengkal,Standar
+327.7,11.6,7.0,15.7,Gedong Gincu,Pasuruan,Matang,Standar
+285.7,13.2,7.2,13.0,Golek,Indramayu,Mengkal,Standar
+323.8,9.9,6.8,7.7,Gedong Gincu,Pasuruan,Matang,Afkir
+292.6,13.7,7.6,6.0,Gedong Gincu,Pasuruan,Terlalu Matang,Afkir
+336.4,12.8,7.1,14.1,Manalagi,Probolinggo,Matang,Standar
+293.1,12.7,7.4,13.4,Golek,Majalengka,Mengkal,Standar
+331.7,15.0,8.7,17.3,Golek,Indramayu,Matang,Premium
+295.4,10.5,6.3,13.7,Gedong Gincu,Probolinggo,Matang,Standar
+367.7,14.1,9.1,18.5,Manalagi,Majalengka,Matang,Premium
+307.7,14.3,6.3,15.1,Harum Manis,Pasuruan,Mengkal,Standar
+304.7,12.7,8.0,15.3,Gedong Gincu,Probolinggo,Mengkal,Standar
+264.9,10.7,5.9,10.0,Harum Manis,Probolinggo,Mentah,Afkir
+358.4,14.2,8.3,16.1,Harum Manis,Probolinggo,Terlalu Matang,Premium
+264.2,13.1,7.2,13.2,Gedong Gincu,Indramayu,Mengkal,Standar
+287.4,11.2,7.2,13.9,Manalagi,Indramayu,Matang,Standar
+188.5,8.8,6.2,10.9,Harum Manis,Majalengka,Mengkal,Afkir
+239.9,12.3,6.4,7.9,Harum Manis,Majalengka,Mentah,Afkir
+297.9,11.1,7.0,12.3,Manalagi,Pasuruan,Matang,Standar
+245.9,9.9,6.5,11.8,Manalagi,Pasuruan,Mentah,Afkir
+401.2,15.6,9.1,15.0,Golek,Indramayu,Matang,Premium
+258.8,12.7,7.4,12.3,Golek,Probolinggo,Matang,Standar
+316.7,16.2,8.6,17.2,Manalagi,Majalengka,Matang,Premium
+246.2,11.7,6.5,9.6,Harum Manis,Majalengka,Mentah,Afkir
+278.4,12.4,7.7,13.7,Gedong Gincu,Indramayu,Mengkal,Standar
+412.5,16.2,7.7,19.0,Harum Manis,Pasuruan,Terlalu Matang,Premium
+370.8,15.2,8.1,16.7,Harum Manis,Probolinggo,Matang,Premium
+380.5,16.3,8.2,18.4,Harum Manis,Indramayu,Terlalu Matang,Premium
+186.0,10.9,6.5,11.0,Golek,Pasuruan,Mentah,Afkir
+290.2,14.0,7.8,12.8,Manalagi,Majalengka,Mengkal,Standar
+202.1,9.6,7.1,9.5,Harum Manis,Indramayu,Matang,Afkir
+381.5,12.4,7.7,12.9,Golek,Indramayu,Mengkal,Standar
+267.7,12.9,6.7,15.5,Gedong Gincu,Pasuruan,Mengkal,Standar
+389.4,13.3,8.5,17.8,Gedong Gincu,Pasuruan,Terlalu Matang,Premium
+385.7,15.6,8.4,19.9,Harum Manis,Probolinggo,Terlalu Matang,Premium
+416.1,12.1,9.0,16.7,Gedong Gincu,Majalengka,Matang,Premium
+245.6,10.4,7.6,7.5,Harum Manis,Pasuruan,Mentah,Afkir
+369.2,11.9,8.7,18.3,Harum Manis,Probolinggo,Matang,Premium
+242.0,11.4,7.1,15.3,Golek,Probolinggo,Mengkal,Standar
+302.5,13.6,7.2,14.7,Manalagi,Majalengka,Mengkal,Standar
+377.2,14.9,8.7,16.7,Golek,Pasuruan,Matang,Premium
+333.1,13.9,8.0,16.7,Golek,Majalengka,Matang,Premium
+299.0,12.7,7.8,13.9,Gedong Gincu,Majalengka,Matang,Standar
+284.6,11.4,8.6,15.2,Golek,Probolinggo,Mengkal,Standar
+173.3,8.2,6.2,9.4,Gedong Gincu,Probolinggo,Matang,Afkir
+392.8,15.4,9.1,18.5,Golek,Probolinggo,Matang,Premium
+318.2,11.6,7.7,14.2,Harum Manis,Probolinggo,Matang,Standar
+278.4,13.5,7.9,6.9,Harum Manis,Probolinggo,Mengkal,Afkir
+289.6,10.0,7.5,13.3,Manalagi,Indramayu,Matang,Standar
+319.9,14.4,8.9,18.7,Gedong Gincu,Majalengka,Matang,Premium
+174.1,10.3,5.5,9.6,Golek,Indramayu,Mengkal,Afkir
+277.9,14.0,7.3,13.3,Gedong Gincu,Pasuruan,Mengkal,Standar
+273.7,14.5,7.4,9.0,Golek,Pasuruan,Mentah,Afkir
+330.2,15.3,8.2,12.1,Harum Manis,Indramayu,Matang,Standar
+336.0,16.3,7.8,20.0,Manalagi,Majalengka,Matang,Premium
+322.2,16.9,8.8,18.6,Gedong Gincu,Pasuruan,Matang,Premium
+160.2,9.9,5.7,9.0,Gedong Gincu,Indramayu,Terlalu Matang,Afkir
+310.0,13.2,7.7,15.4,Golek,Indramayu,Mengkal,Standar
+377.0,14.4,9.4,14.8,Manalagi,Indramayu,Matang,Premium
+304.0,11.0,7.4,15.0,Manalagi,Indramayu,Mengkal,Standar
+296.1,13.8,7.9,14.5,Manalagi,Indramayu,Mengkal,Standar
+343.2,12.6,9.1,18.5,Harum Manis,Pasuruan,Terlalu Matang,Premium
+343.2,12.6,8.4,12.6,Golek,Pasuruan,Mengkal,Standar
+361.2,11.3,7.0,12.1,Harum Manis,Indramayu,Matang,Standar
+225.6,12.8,6.5,8.2,Harum Manis,Pasuruan,Mengkal,Afkir
+329.0,15.8,8.5,16.3,Gedong Gincu,Indramayu,Matang,Premium
+212.7,10.8,6.9,10.0,Harum Manis,Probolinggo,Matang,Afkir
+292.1,13.5,8.2,11.7,Gedong Gincu,Pasuruan,Matang,Standar
+328.5,12.5,7.9,13.4,Harum Manis,Majalengka,Mengkal,Standar
+212.9,13.2,8.2,9.0,Harum Manis,Indramayu,Mentah,Afkir
+281.4,12.0,8.1,15.5,Harum Manis,Indramayu,Mengkal,Standar
+323.8,13.0,7.8,15.1,Golek,Indramayu,Matang,Standar
+287.3,12.9,7.9,7.8,Golek,Majalengka,Mengkal,Afkir
+221.7,10.8,7.5,9.4,Golek,Pasuruan,Mentah,Afkir
+265.5,11.0,6.1,11.2,Golek,Pasuruan,Mentah,Afkir
+185.1,9.8,6.0,11.9,Gedong Gincu,Pasuruan,Matang,Afkir
+179.5,9.1,7.3,9.5,Golek,Majalengka,Mentah,Afkir
+348.1,16.1,8.4,16.1,Golek,Pasuruan,Matang,Premium
+190.4,10.3,6.4,10.6,Gedong Gincu,Majalengka,Mentah,Afkir
+348.6,13.8,9.3,16.3,Golek,Majalengka,Matang,Premium
+347.6,13.4,8.5,16.7,Golek,Majalengka,Matang,Premium
+305.9,11.4,6.9,13.5,Gedong Gincu,Indramayu,Matang,Standar
+357.6,13.5,9.0,17.2,Golek,Pasuruan,Matang,Premium
+313.5,14.1,8.1,14.3,Harum Manis,Indramayu,Matang,Standar
+351.6,15.5,8.5,15.9,Manalagi,Pasuruan,Terlalu Matang,Premium
+289.4,13.5,7.4,14.8,Gedong Gincu,Indramayu,Mengkal,Standar
+293.9,12.2,8.5,15.5,Harum Manis,Majalengka,Mengkal,Standar
+247.6,13.4,7.1,14.0,Gedong Gincu,Majalengka,Mengkal,Standar
+341.8,13.9,8.2,19.3,Golek,Pasuruan,Terlalu Matang,Premium
+166.1,9.8,6.6,9.2,Gedong Gincu,Indramayu,Mentah,Afkir
+229.6,11.3,6.7,12.1,Golek,Majalengka,Mentah,Afkir
+164.7,8.1,5.3,11.5,Golek,Probolinggo,Terlalu Matang,Afkir
+283.6,11.8,7.5,14.6,Golek,Pasuruan,Mengkal,Standar
+282.4,13.9,7.4,7.7,Gedong Gincu,Pasuruan,Mengkal,Afkir
+285.0,11.4,8.7,13.8,Golek,Indramayu,Matang,Standar
+247.9,14.2,7.4,13.8,Manalagi,Probolinggo,Mengkal,Standar
+306.2,11.6,7.1,12.8,Harum Manis,Majalengka,Mengkal,Standar
+316.9,12.3,7.0,6.9,Golek,Pasuruan,Mentah,Afkir
+237.0,10.7,6.9,9.1,Gedong Gincu,Pasuruan,Terlalu Matang,Afkir
+215.1,9.2,7.6,11.6,Manalagi,Pasuruan,Mentah,Afkir
+321.8,11.0,7.6,16.5,Gedong Gincu,Indramayu,Mengkal,Standar
+197.5,10.5,5.7,10.5,Gedong Gincu,Indramayu,Matang,Afkir
+192.8,8.8,6.2,8.7,Golek,Indramayu,Terlalu Matang,Afkir
+367.9,15.4,8.0,17.2,Harum Manis,Probolinggo,Matang,Premium
+354.1,16.3,8.3,18.9,Manalagi,Majalengka,Terlalu Matang,Premium
+213.5,9.4,6.7,7.6,Golek,Majalengka,Mentah,Afkir
+325.5,12.8,7.3,14.0,Manalagi,Indramayu,Mengkal,Standar
+383.3,16.1,7.4,20.1,Harum Manis,Pasuruan,Matang,Premium
+361.3,14.2,9.6,18.3,Gedong Gincu,Pasuruan,Matang,Premium
+295.5,12.2,7.4,13.7,Gedong Gincu,Probolinggo,Mengkal,Standar
+264.4,12.9,7.6,13.8,Manalagi,Probolinggo,Matang,Standar
+310.9,12.2,7.8,14.4,Manalagi,Majalengka,Mengkal,Standar
+339.1,15.4,8.5,17.3,Gedong Gincu,Indramayu,Matang,Premium
+142.7,10.0,6.2,11.9,Harum Manis,Probolinggo,Mengkal,Afkir
+262.5,13.2,6.3,4.7,Gedong Gincu,Majalengka,Mengkal,Afkir
+305.7,11.4,7.9,14.3,Golek,Pasuruan,Mengkal,Standar
+344.0,14.8,9.6,15.9,Gedong Gincu,Indramayu,Terlalu Matang,Premium
+395.6,16.3,8.8,17.7,Golek,Indramayu,Terlalu Matang,Premium
+406.5,14.6,8.5,17.7,Gedong Gincu,Pasuruan,Matang,Premium
+340.9,12.3,9.5,17.5,Manalagi,Majalengka,Matang,Premium
+282.4,11.6,7.3,13.6,Harum Manis,Majalengka,Matang,Standar
+415.5,14.7,8.3,17.1,Golek,Majalengka,Terlalu Matang,Premium
+292.3,13.7,7.8,16.5,Manalagi,Probolinggo,Matang,Premium
+345.3,16.1,9.1,17.8,Golek,Probolinggo,Matang,Premium
+348.1,14.2,8.5,20.4,Gedong Gincu,Indramayu,Matang,Premium
+375.0,14.2,8.7,17.6,Golek,Majalengka,Matang,Premium
+302.8,10.0,7.7,7.2,Manalagi,Probolinggo,Mentah,Afkir
+258.8,13.0,8.2,8.6,Golek,Probolinggo,Mentah,Afkir
+295.1,13.4,7.9,13.5,Manalagi,Probolinggo,Matang,Standar
+401.7,14.2,9.1,19.7,Gedong Gincu,Majalengka,Matang,Premium
+210.4,11.5,6.5,8.2,Harum Manis,Indramayu,Mentah,Afkir
+275.3,12.0,7.5,8.2,Gedong Gincu,Probolinggo,Terlalu Matang,Afkir
+357.3,14.5,7.5,20.2,Gedong Gincu,Pasuruan,Terlalu Matang,Premium
+274.5,13.4,7.4,14.4,Manalagi,Pasuruan,Mengkal,Standar
+373.0,15.1,8.1,16.9,Gedong Gincu,Probolinggo,Terlalu Matang,Premium
+305.3,11.6,5.5,7.1,Gedong Gincu,Majalengka,Matang,Afkir
+263.6,12.8,7.2,12.4,Manalagi,Indramayu,Matang,Standar
+273.9,10.8,7.5,13.4,Harum Manis,Indramayu,Matang,Standar
+284.4,13.2,6.9,12.2,Manalagi,Pasuruan,Mengkal,Standar
+368.4,14.9,8.6,16.3,Golek,Indramayu,Matang,Premium
+334.9,14.6,8.5,17.3,Manalagi,Indramayu,Matang,Premium
+397.2,13.7,9.9,18.2,Golek,Indramayu,Terlalu Matang,Premium
+224.9,11.1,7.9,7.7,Manalagi,Majalengka,Mengkal,Afkir

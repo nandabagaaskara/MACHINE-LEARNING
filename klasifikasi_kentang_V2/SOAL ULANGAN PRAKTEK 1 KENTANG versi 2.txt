@@ -1,0 +1,25 @@
+tampilkan dataframe
+tampilkan ukuran dataframe (baris, kolom)
+tampilkan nama-nama kolom dataframe
+tampilkan 8 data teratas, 8 data terbawah, 8 data acak
+tampilkan informasi tentang dataframe
+tampilkan informasi statistik tentang dataframe
+
+tampilkan isi kolom JENIS KENTANG, METODE PANEN, KONDISI PENYIMPANAN, ADA TUNAS, TINGKAT KEMATANGAN dan GRADE beserta jumlahnya
+
+tampilkan jumlah kolom yang kosong
+
+buat scatter plot BERAT vs DIAMETER (standard=darkgreen, premium=darkmagenta, reject=darkred) dengan ukuran titik 50
+buat scatter plot BERAT vs KADAR AIR (standard=darkgreen, premium=darkmagenta, reject=darkred) dengan ukuran titik 50
+buat scatter plot DIAMETER vs KADAR AIR (standard=darkgreen, premium=darkmagenta, reject=darkred) dengan ukuran titik 50
+
+buat model machine learning menggunakan Logistic Regression
+ada 3 kolom numerik, 4 kolom kategorikal, 1 kolom ordinal
+
+tampilkan nilai akurasi, report dan confusion-nya (akurasi = 0.90)
+
+lakukan prediksi data baru 
+220, 6.5, 75, "Granola", "Manual","Gudang", "Tidak", "Sangat Matang" 
+=> hasilnya Premium dengan presentase keyakinan 96.92%
+
+simpan model menggunakan joblib
